@@ -1,0 +1,3547 @@
+{
+  "vaultName": "lcdor",
+  "lastExport": 1723482597368,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager show-inline-title show-ribbon theme-light basic-pathfinder-2e-layout-theme-default pathfinder-2e-action-layout-theme-default pathfinder-2e-hazard-layout-theme-default pathfinder-2e-influence-layout-theme-default pathfinder-2e-misc-layout-theme-default pathfinder-2e-quest-layout-theme-default pathfinder-2e-settlement-layout-theme-default",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "lcdor_export/Notes/Characters/Anduin/Amfossa.md",
+    "lcdor_export/Notes/Characters/Anduin/Beorn.md",
+    "lcdor_export/Notes/Characters/Anduin/Cruac the Outlaw.md",
+    "lcdor_export/Notes/Characters/Anduin/Drizoc.md",
+    "lcdor_export/Notes/Characters/Anduin/Gandalf.md",
+    "lcdor_export/Notes/Characters/Anduin/Gelvira.md",
+    "lcdor_export/Notes/Characters/Anduin/Gorgol.md",
+    "lcdor_export/Notes/Characters/Anduin/Hwalda.md",
+    "lcdor_export/Notes/Characters/Anduin/Lonely Giant.md",
+    "lcdor_export/Notes/Characters/Anduin/Mansbane.md",
+    "lcdor_export/Notes/Characters/Anduin/Osred the rider.md",
+    "lcdor_export/Notes/Characters/Dale/Antiguo Burgomaestre.md",
+    "lcdor_export/Notes/Characters/Dale/Bardo.md",
+    "lcdor_export/Notes/Characters/Dale/Elstan.md",
+    "lcdor_export/Notes/Characters/Dale/Hacon Finson.md",
+    "lcdor_export/Notes/Characters/Dale/Lady Sara.md",
+    "lcdor_export/Notes/Characters/Dale/Merar.md",
+    "lcdor_export/Notes/Characters/Dale/Rugash.md",
+    "lcdor_export/Notes/Characters/Dale/Vali.md",
+    "lcdor_export/Notes/Characters/Dale/Zathir.md",
+    "lcdor_export/Notes/Characters/Erebor/Balin.md",
+    "lcdor_export/Notes/Characters/Erebor/Dáin.md",
+    "lcdor_export/Notes/Characters/Erebor/Domi.md",
+    "lcdor_export/Notes/Characters/Erebor/Gloin.md",
+    "lcdor_export/Notes/Characters/Erebor/Munin.md",
+    "lcdor_export/Notes/Characters/Erebor/Niping.md",
+    "lcdor_export/Notes/Characters/Erebor/Ori.md",
+    "lcdor_export/Notes/Characters/Ered Mithrin/Alkarin.md",
+    "lcdor_export/Notes/Characters/Ered Mithrin/Ellaras.md",
+    "lcdor_export/Notes/Characters/Ered Mithrin/Frár Sin Barba.md",
+    "lcdor_export/Notes/Characters/Ered Mithrin/The Gibbet King.md",
+    "lcdor_export/Notes/Characters/Ered Mithrin/Kariel.md",
+    "lcdor_export/Notes/Characters/Ered Mithrin/Raenar.md",
+    "lcdor_export/Notes/Characters/Ered Mithrin/Rey Dvalinor.md",
+    "lcdor_export/Notes/Characters/Ered Mithrin/Witherfinger.md",
+    "lcdor_export/Notes/Characters/Mirkwood/Beran.md",
+    "lcdor_export/Notes/Characters/Mirkwood/Bofri son of Bofur.md",
+    "lcdor_export/Notes/Characters/Mirkwood/Dagmar.md",
+    "lcdor_export/Notes/Characters/Mirkwood/Flardryn Umehic.md",
+    "lcdor_export/Notes/Characters/Mirkwood/Geirbald.md",
+    "lcdor_export/Notes/Characters/Mirkwood/The Ghost of the Forest.md",
+    "lcdor_export/Notes/Characters/Mirkwood/La Dragona del Bosque.md",
+    "lcdor_export/Notes/Characters/Mirkwood/Maghaz.md",
+    "lcdor_export/Notes/Characters/Mirkwood/Mogdred.md",
+    "lcdor_export/Notes/Characters/Mirkwood/Radagast.md",
+    "lcdor_export/Notes/Characters/Mirkwood/Tarik.md",
+    "lcdor_export/Notes/Characters/Mirkwood/Tauler, Tyulqin y Sarqin.md",
+    "lcdor_export/Notes/Characters/Mirkwood/The Great Vampire.md",
+    "lcdor_export/Notes/Characters/Mirkwood/The Necromancer.md",
+    "lcdor_export/Notes/Characters/Mirkwood/The Werewolf of Mirkwood.md",
+    "lcdor_export/Notes/Characters/Mirkwood/Thranduil.md",
+    "lcdor_export/Notes/Characters/Mirkwood/Wodurishak.md",
+    "lcdor_export/Notes/Characters/Party/old/Amras.md",
+    "lcdor_export/Notes/Characters/Party/old/Astaldo.md",
+    "lcdor_export/Notes/Characters/Party/old/Thonismund.md",
+    "lcdor_export/Notes/Characters/Party/Adelbard Tuck-Baggings.md",
+    "lcdor_export/Notes/Characters/Party/Blain.md",
+    "lcdor_export/Notes/Characters/Party/Delileron.md",
+    "lcdor_export/Notes/Characters/Party/Eyvindr Finson.md",
+    "lcdor_export/Notes/Characters/Party/Hans Grimald.md",
+    "lcdor_export/Notes/Characters/Party/Ostag.md",
+    "lcdor_export/Notes/Characters/Party/Tolainas.md",
+    "lcdor_export/Notes/Handouts/Hope economy.md",
+    "lcdor_export/Notes/Handouts/Resumen procedimientos TOR2e.md",
+    "lcdor_export/Notes/Locations/Anduin/Bar-en-Thurin.md",
+    "lcdor_export/Notes/Locations/Anduin/Dimrill watch.md",
+    "lcdor_export/Notes/Locations/Anduin/Elendils Camp.md",
+    "lcdor_export/Notes/Locations/Anduin/Granja Blacktom.md",
+    "lcdor_export/Notes/Locations/Anduin/Gundabad.md",
+    "lcdor_export/Notes/Locations/Anduin/Hag's Island.md",
+    "lcdor_export/Notes/Locations/Anduin/Isle of strangling trees.md",
+    "lcdor_export/Notes/Locations/Anduin/The Black Door.md",
+    "lcdor_export/Notes/Locations/Anduin/The Long Delve.md",
+    "lcdor_export/Notes/Locations/Anduin/The Toft.md",
+    "lcdor_export/Notes/Locations/Anduin/The wolfswood.md",
+    "lcdor_export/Notes/Locations/Anduin/Torre de vigilancia perdida.md",
+    "lcdor_export/Notes/Locations/Anduin/Torre del Elfo.md",
+    "lcdor_export/Notes/Locations/Dale/Ciudad del Lago.md",
+    "lcdor_export/Notes/Locations/Dale/Dale.md",
+    "lcdor_export/Notes/Locations/Dale/Dorwinion.md",
+    "lcdor_export/Notes/Locations/Dale/Edric's Town.md",
+    "lcdor_export/Notes/Locations/Dale/Erebor.md",
+    "lcdor_export/Notes/Locations/Dale/Galford.md",
+    "lcdor_export/Notes/Locations/Dale/Grimarr’s Hall.md",
+    "lcdor_export/Notes/Locations/Dale/Tumba del Burgomaestre.md",
+    "lcdor_export/Notes/Locations/Ered Mithrin/Azaghar.md",
+    "lcdor_export/Notes/Locations/Ered Mithrin/Barak-zar.md",
+    "lcdor_export/Notes/Locations/Ered Mithrin/Beinhard.md",
+    "lcdor_export/Notes/Locations/Ered Mithrin/facciones.md",
+    "lcdor_export/Notes/Locations/Ered Mithrin/Fireheart Mine.md",
+    "lcdor_export/Notes/Locations/Ered Mithrin/Greydelve.md",
+    "lcdor_export/Notes/Locations/Ered Mithrin/Khelektar.md",
+    "lcdor_export/Notes/Locations/Ered Mithrin/Montañas Grises.md",
+    "lcdor_export/Notes/Locations/Ered Mithrin/Zirakinbar.md",
+    "lcdor_export/Notes/Locations/Mirkwood/Barrows of the Northmen.md",
+    "lcdor_export/Notes/Locations/Mirkwood/Castillo de Fenbridge.md",
+    "lcdor_export/Notes/Locations/Mirkwood/Dol Guldur.md",
+    "lcdor_export/Notes/Locations/Mirkwood/Dwimmerhorn.md",
+    "lcdor_export/Notes/Locations/Mirkwood/Emyn-nu-fuin.md",
+    "lcdor_export/Notes/Locations/Mirkwood/La Casa del Lanternero.md",
+    "lcdor_export/Notes/Locations/Mirkwood/Rhosgobel.md",
+    "lcdor_export/Notes/Locations/Mirkwood/Tumsarna.md",
+    "lcdor_export/Notes/Locations/Mirkwood/Woodland Hall.md",
+    "lcdor_export/Notes/Locations/Mirkwood/Woodmen Town.md",
+    "lcdor_export/Notes/Locations/Mordor.md",
+    "lcdor_export/Notes/Lore/Anduin/A Campfire Tale.md",
+    "lcdor_export/Notes/Lore/Anduin/Hombres de Gundabad.md",
+    "lcdor_export/Notes/Lore/Anduin/Leofrings.md",
+    "lcdor_export/Notes/Lore/Anduin/The Erringmen.md",
+    "lcdor_export/Notes/Lore/Anduin/The steeds of the moon.md",
+    "lcdor_export/Notes/Lore/Anduin/Viglundinos.md",
+    "lcdor_export/Notes/Lore/Dale/Cadena de Thangorodrim.md",
+    "lcdor_export/Notes/Lore/Dale/Dragonslayer Swords.md",
+    "lcdor_export/Notes/Lore/Dale/Pact of the North.md",
+    "lcdor_export/Notes/Lore/Dale/Viola de los espíritus.md",
+    "lcdor_export/Notes/Prep/lcdr - Frentes de la campaña.md",
+    "lcdor_export/Notes/Prep/lcdr - Prep S37.md",
+    "lcdor_export/Notes/Prep/lcdr - Prep S38.md",
+    "lcdor_export/Notes/Prep/lcdr - Prep S41.md",
+    "lcdor_export/Notes/Prep/lcdr - Prep S42.md",
+    "lcdor_export/Notes/Prep/lcdr - Prep S43.md",
+    "lcdor_export/Notes/Prep/lcdr - Prep S44.md",
+    "lcdor_export/Notes/Prep/lcdr - Prep S45.md",
+    "lcdor_export/Notes/Quests/0.- EAU - Añadir Quest.md",
+    "lcdor_export/Notes/Quests/lcdr - Q06 - Contactar con Frar Sin Barba.md",
+    "lcdor_export/Notes/Quests/lcdr - Q12 - Devolver la viola a Ellaras.md",
+    "lcdor_export/Notes/Quests/lcdr - Q13 - El mensaje del Burgomaestre.md",
+    "lcdor_export/Notes/Quests/lcdr - Q03 - El señor de Fernbridge.md",
+    "lcdor_export/Notes/Quests/lcdr - Q09 - Eliminar la amenaza de Rugash.md",
+    "lcdor_export/Notes/Quests/ldcr - Q14 - Encontrar a Domi.md",
+    "lcdor_export/Notes/Quests/lcdr - Q04 - Evitar que se despierten los poderes del bosque.md",
+    "lcdor_export/Notes/Quests/lcdr - Q02 - Investigar la Torre del Elfo.md",
+    "lcdor_export/Notes/Quests/lcdr - Q00 - La búsqueda del ojo rojo.md",
+    "lcdor_export/Notes/Quests/lcdr - Q07 - Mantener a raya las razzias orcas de Gundabad.md",
+    "lcdor_export/Notes/Quests/lcdr - Q10 - Obtener información de cómo se encuentra el constructor de Linternas.md",
+    "lcdor_export/Notes/Quests/lcdr - Q11 - Presentar los respetos a Bardo en su corte.md",
+    "lcdor_export/Notes/Quests/lcdr - Q08 - Reconstrucción del camino de los enanos.md",
+    "lcdor_export/Notes/Quests/lcdr - Q05 - Recuperar documentos de Emyn-Nu-Fuin.md",
+    "lcdor_export/Notes/Quests/lcdr - Q01 - Rescatar a Balin y Oin.md",
+    "lcdor_export/Notes/Sessions/lcdr - S32 - Agasajos reales.md",
+    "lcdor_export/Notes/Sessions/lcdr - S21 - Atravesando el bosque negro.md",
+    "lcdor_export/Notes/Sessions/lcdr - S06 - Bar-en-Thurin.md",
+    "lcdor_export/Notes/Sessions/lcdr - S05 - Confesiones con Gelvira.md",
+    "lcdor_export/Notes/Sessions/lcdr - S01 - Creación de la comunidad.md",
+    "lcdor_export/Notes/Sessions/lcdr - S44 - De Valle a Edric’s Town recopilando información.md",
+    "lcdor_export/Notes/Sessions/lcdr - S08 - Descanso en casa de Beorn.md",
+    "lcdor_export/Notes/Sessions/lcdr - S04 - El camino del bosque viejo.md",
+    "lcdor_export/Notes/Sessions/lcdr - S33 - El camino hacia el Norte.md",
+    "lcdor_export/Notes/Sessions/lcdr - S38 - El encuentro con Frár sin barba.md",
+    "lcdor_export/Notes/Sessions/lcdr - S45 - El Mausoleo de Girion.md",
+    "lcdor_export/Notes/Sessions/lcdr - S46 - El Mausoleo de Girion II.md",
+    "lcdor_export/Notes/Sessions/lcdr - S19 - El viaje con Gandalf.md",
+    "lcdor_export/Notes/Sessions/lcdr - S02 - En busca de Balin y Oin.md",
+    "lcdor_export/Notes/Sessions/lcdr - S14 - En busca de Radagast.md",
+    "lcdor_export/Notes/Sessions/lcdr - S10 - En las cercanías de Gundabad.md",
+    "lcdor_export/Notes/Sessions/lcdr - S41 - Encuentros en el Bosque Negro.md",
+    "lcdor_export/Notes/Sessions/lcdr - S07 - Explorando Bar-en-Thurin.md",
+    "lcdor_export/Notes/Sessions/lcdr - S11 - Hwalda la cazadora.md",
+    "lcdor_export/Notes/Sessions/lcdr - S13 - Informando a Beorn.md",
+    "lcdor_export/Notes/Sessions/lcdr - S31 - Investigando en Erebor.md",
+    "lcdor_export/Notes/Sessions/lcdr - S39 - La búsqueda de la Mina Fireheart.md",
+    "lcdor_export/Notes/Sessions/lcdr - S43 - La cámara de Mazarbul.md",
+    "lcdor_export/Notes/Sessions/lcdr - S03 - La campana de los moradores del pantano.md",
+    "lcdor_export/Notes/Sessions/lcdr - S26 - La caza del orco.md",
+    "lcdor_export/Notes/Sessions/lcdr - S28 - La ciudad minera al norte.md",
+    "lcdor_export/Notes/Sessions/lcdr - S12 - La guerra civil viglundina.md",
+    "lcdor_export/Notes/Sessions/lcdr - S35 - La torre de los enanos.md",
+    "lcdor_export/Notes/Sessions/lcdr - S09 - La Torre de Vigilancia Perdida.md",
+    "lcdor_export/Notes/Sessions/lcdr - S16 - La Torre del Elfo.md",
+    "lcdor_export/Notes/Sessions/lcdr - S17 - La Torre del Elfo (II).md",
+    "lcdor_export/Notes/Sessions/lcdr - S30 - La Tumba del burgomaestre.md",
+    "lcdor_export/Notes/Sessions/lcdr - S18 - Los espíritus del Bosque.md",
+    "lcdor_export/Notes/Sessions/lcdr - S27 - Los honores de parte de un Rey.md",
+    "lcdor_export/Notes/Sessions/lcdr - S34 - Orcos en las cumbres nevadas.md",
+    "lcdor_export/Notes/Sessions/lcdr - S36 - Renovados por dentro y por fuera.md",
+    "lcdor_export/Notes/Sessions/lcdr - S40 - Retorno a Casa de Beorn.md",
+    "lcdor_export/Notes/Sessions/lcdr - S15 - Rosghobel.md",
+    "lcdor_export/Notes/Sessions/lcdr - S20 - Rumbo a Emyn-nu-Fuin.md",
+    "lcdor_export/Notes/Sessions/lcdr - S00 - Sesión Cero.md",
+    "lcdor_export/Notes/Sessions/lcdr - S23 - Un descanso y problemas en el norte.md",
+    "lcdor_export/Notes/Sessions/lcdr - S24 - Un descanso y problemas en el norte II.md",
+    "lcdor_export/Notes/Sessions/lcdr - S25 - Un descanso y problemas en el norte III.md",
+    "lcdor_export/Notes/Sessions/lcdr - S22 - Un elfo entre montañas.md",
+    "lcdor_export/Notes/Sessions/lcdr - S29 - Un espectro en el camino.md",
+    "lcdor_export/Notes/Sessions/lcdr - S42 - Un inesperado encuentro llegando a ciudad del Lago.md",
+    "lcdor_export/Notes/Sessions/lcdr - S37 - Volviendo a la ciudad minera.md",
+    "lcdor_export/z_img/Antiguo Burgomaestre_image_1.webp",
+    "lcdor_export/z_img/Bardo_image_1.webp",
+    "lcdor_export/z_img/Domi_image_1.webp",
+    "lcdor_export/z_img/Drizoc_image_1.webp",
+    "lcdor_export/z_img/Flardryn Umehic_image_1.webp",
+    "lcdor_export/z_img/Gorgol_image_1.webp",
+    "lcdor_export/z_img/Gundabad_image_1.webp",
+    "lcdor_export/z_img/Gundabad_image_2.webp",
+    "lcdor_export/z_img/lcdr - Prep S43_image_1.webp",
+    "lcdor_export/z_img/lcdr - S18 - Los espíritus del Bosque_image_1.webp",
+    "lcdor_export/z_img/lcdr - S39 - La búsqueda de la Mina Fireheart_image_1.webp",
+    "lcdor_export/z_img/lcdr - S39 - La búsqueda de la Mina Fireheart_image_2.webp",
+    "lcdor_export/z_img/lcdr - S41_image_1.webp",
+    "lcdor_export/z_img/lcdr - S42_image_1.webp",
+    "lcdor_export/z_img/lcdr - S43-20240223111834395.webp",
+    "lcdor_export/z_img/lore_005_viglundins.webp",
+    "lcdor_export/z_img/lore_099_cadena.webp",
+    "lcdor_export/z_img/lore_100_dragonslayer.webp",
+    "lcdor_export/z_img/lore_viola_of_moonlight.webp",
+    "lcdor_export/z_img/npc_034_khamul.webp",
+    "lcdor_export/z_img/npc_050_rugash.webp",
+    "lcdor_export/z_img/npc_060_hwalda.webp",
+    "lcdor_export/z_img/npc_061_beran.webp",
+    "lcdor_export/z_img/npc_062_ellaras.webp",
+    "lcdor_export/z_img/npc_068_frar.webp",
+    "lcdor_export/z_img/npc_076_radagast.webp",
+    "lcdor_export/z_img/npc_081_gandalf.webp",
+    "lcdor_export/z_img/npc_082_munin.webp",
+    "lcdor_export/z_img/npc_083_ori.webp",
+    "lcdor_export/z_img/npc_086_lady_sara.webp",
+    "lcdor_export/z_img/npc_087_elstan.webp",
+    "lcdor_export/z_img/npc_089_vali.webp",
+    "lcdor_export/z_img/npc_094_merar.webp",
+    "lcdor_export/z_img/npc_095_dain.webp",
+    "lcdor_export/z_img/npc_096_tarik.webp",
+    "lcdor_export/z_img/npc_099_raenar.webp",
+    "lcdor_export/z_img/npc_101_gibbet_king.webp",
+    "lcdor_export/z_img/npc_101_witherfinger.webp",
+    "lcdor_export/z_img/place_003_greydelve.webp",
+    "lcdor_export/z_img/place_047_dol_guldur.webp",
+    "lcdor_export/z_img/place_048_galford.webp",
+    "lcdor_export/z_img/place_048_galford_the_lantern.webp",
+    "lcdor_export/z_img/place_049_Edrics_Town.webp",
+    "lcdor_export/z_img/place_052_a_chill_and_windsweept.webp",
+    "lcdor_export/z_img/place_054_grimarrs_hall.webp",
+    "lcdor_export/z_img/place_078_rhosgobel.webp",
+    "lcdor_export/z_img/place_079_woodland_hall.webp",
+    "lcdor_export/z_img/place_080_woodmen_town.webp",
+    "lcdor_export/z_img/place_090_dale.webp",
+    "lcdor_export/z_img/place_090_dale_overview.webp",
+    "lcdor_export/z_img/place_091_Khelektar.webp",
+    "lcdor_export/z_img/place_092_barak_zar_plaza.webp",
+    "lcdor_export/z_img/place_093_Azaghar.webp",
+    "lcdor_export/z_img/s01_4519132-dark-forest.webp",
+    "lcdor_export/z_img/s01_mapa_rhovanion.webp",
+    "lcdor_export/z_img/s01_size500_oots_tednasmith_bilboandeagles_detail1_500.webp",
+    "lcdor_export/z_img/s01_the-hobbit-the-desolation-of-smaug-fx-046.webp",
+    "lcdor_export/z_img/s02_balin.webp",
+    "lcdor_export/z_img/s02_gloin.webp",
+    "lcdor_export/z_img/s02_oin.webp",
+    "lcdor_export/z_img/s02_troll.webp",
+    "lcdor_export/z_img/s03_beorn.webp",
+    "lcdor_export/z_img/s03_bofri_hijo_bofur.webp",
+    "lcdor_export/z_img/s04_el_camino_del_bosque_viejo.webp",
+    "lcdor_export/z_img/s04_wargo.webp",
+    "lcdor_export/z_img/s05_elfos_del_bosque.webp",
+    "lcdor_export/z_img/s05_gundabad.webp",
+    "lcdor_export/z_img/s05_pueblo_de_beorn.webp",
+    "lcdor_export/z_img/s05_puerta_de_los_elfos.webp",
+    "lcdor_export/z_img/s05_todos_los_pueblos.webp",
+    "lcdor_export/z_img/s05_viglundins.webp",
+    "lcdor_export/z_img/s06_combate_en_colinas_de_gundabad.webp",
+    "lcdor_export/z_img/s07_espectro_enano.webp",
+    "lcdor_export/z_img/s08_ostag_cs.webp",
+    "lcdor_export/z_img/s08_ostag_cs_ii.webp",
+    "lcdor_export/z_img/s08_travel_map.webp",
+    "lcdor_export/z_img/s09_combate_01.webp",
+    "lcdor_export/z_img/s09_ficha_01.webp",
+    "lcdor_export/z_img/s10_anduin_upper_valleis.webp",
+    "lcdor_export/z_img/s11_enfrentamiento_en_colinas_gundabad.webp",
+    "lcdor_export/z_img/s12_mapa.webp",
+    "lcdor_export/z_img/s12_vista_general.webp",
+    "lcdor_export/z_img/s13_de_camino_a_beorn.webp",
+    "lcdor_export/z_img/s13_sur_del_anduil.webp",
+    "lcdor_export/z_img/s14_aranyas_en_el_bosque.webp",
+    "lcdor_export/z_img/s14_rhosgobel.webp",
+    "lcdor_export/z_img/s14_viaje_a_rhosgobel.webp",
+    "lcdor_export/z_img/s15_enfrentamiento_con_dagma.webp",
+    "lcdor_export/z_img/s16_la_torre_del_elfo_mapa.webp",
+    "lcdor_export/z_img/s16_la_torre_del_elfo_vista.webp",
+    "lcdor_export/z_img/s17_la_torre_del_elfo_plano.webp",
+    "lcdor_export/z_img/s19_gandalf.webp",
+    "lcdor_export/z_img/s19_ruta_a_casa_beorn.webp",
+    "lcdor_export/z_img/s22_campamento_orco.webp",
+    "lcdor_export/z_img/s22_castillo_mirkwood.jpg",
+    "lcdor_export/z_img/s22_torre_enana.webp",
+    "lcdor_export/z_img/s26_enfrentamiento_con_los_orcos.webp",
+    "lcdor_export/z_img/s26_flechazo_mortal.webp",
+    "lcdor_export/z_img/s28_beinhard.webp",
+    "lcdor_export/z_img/s28_la_taberna.webp",
+    "lcdor_export/z_img/s28_weather.webp",
+    "lcdor_export/z_img/s30_combate_en_la_tumba.webp",
+    "lcdor_export/z_img/s33_estribaciones_meridionales.webp",
+    "lcdor_export/z_img/s33_viaje_al_norte.webp",
+    "lcdor_export/z_img/s34_combate_en_la_nieve.webp",
+    "lcdor_export/z_img/s34_torre_orca.webp",
+    "lcdor_export/z_img/s35_enfrentamiento_con_gibbet_king.webp",
+    "lcdor_export/z_img/s35_orcos_en_la_fundicion.webp",
+    "lcdor_export/z_img/s37_combate_orcos.webp",
+    "lcdor_export/z_img/S45 - El Mausoleo de Girion-20240812172315142.webp",
+    "lcdor_export/z_img/SWRPGFFG - Session 00_image_1.webp",
+    "lcdor_export/z_img/SWRPGFFG - Session 00_image_2.webp",
+    "lcdor_export/z_img/SWRPGFFG - Session 00_image_3.webp",
+    "lcdor_export/z_img/SWRPGFFG - Session 00_image_4.webp",
+    "lcdor_export/z_img/SWRPGFFG - Session 00_image_5.webp",
+    "lcdor_export/z_img/SWRPGFFG - Session 00_image_6.webp",
+    "lcdor_export/z_img/The Great Vampire_image_1.webp",
+    "lcdor_export/z_img/Thranduil_image_1.webp",
+    "lcdor_export/z_img/wilderland_map_original.webp",
+    "lcdor_export/z_img/Wodurishak_image_1.webp",
+    "lcdor_export/z_img/Zirakinbar-20240225123453736.webp",
+    "lcdor_export/index.md",
+    "lcdor_export/Mapa lcdor jugadores.md",
+    "lib/media/s03_beorn.webp",
+    "lib/media/drizoc_image_1.webp",
+    "lib/media/npc_081_gandalf.webp",
+    "lib/media/gorgol_image_1.webp",
+    "lib/media/npc_060_hwalda.webp",
+    "lib/media/antiguo-burgomaestre_image_1.webp",
+    "lib/media/bardo_image_1.webp",
+    "lib/media/npc_087_elstan.webp",
+    "lib/media/npc_086_lady_sara.webp",
+    "lib/media/npc_094_merar.webp",
+    "lib/media/npc_050_rugash.webp",
+    "lib/media/npc_089_vali.webp",
+    "lib/media/s02_balin.webp",
+    "lib/media/npc_095_dain.webp",
+    "lib/media/domi_image_1.webp",
+    "lib/media/s02_gloin.webp",
+    "lib/media/npc_082_munin.webp",
+    "lib/media/npc_083_ori.webp",
+    "lib/media/npc_062_ellaras.webp",
+    "lib/media/npc_068_frar.webp",
+    "lib/media/npc_101_gibbet_king.webp",
+    "lib/media/npc_099_raenar.webp",
+    "lib/media/npc_101_witherfinger.webp",
+    "lib/media/npc_061_beran.webp",
+    "lib/media/s03_bofri_hijo_bofur.webp",
+    "lib/media/flardryn-umehic_image_1.webp",
+    "lib/media/npc_034_khamul.webp",
+    "lib/media/npc_076_radagast.webp",
+    "lib/media/npc_096_tarik.webp",
+    "lib/media/the-great-vampire_image_1.webp",
+    "lib/media/thranduil_image_1.webp",
+    "lib/media/wodurishak_image_1.webp",
+    "lib/media/gundabad_image_1.webp",
+    "lib/media/gundabad_image_2.webp",
+    "lib/media/place_049_edrics_town.webp",
+    "lib/media/place_048_galford.webp",
+    "lib/media/place_048_galford_the_lantern.webp",
+    "lib/media/place_054_grimarrs_hall.webp",
+    "lib/media/place_052_a_chill_and_windsweept.webp",
+    "lib/media/place_093_azaghar.webp",
+    "lib/media/place_092_barak_zar_plaza.webp",
+    "lib/media/lcdr-s39-la-búsqueda-de-la-mina-fireheart_image_1.webp",
+    "lib/media/place_003_greydelve.webp",
+    "lib/media/place_091_khelektar.webp",
+    "lib/media/zirakinbar-20240225123453736.webp",
+    "lib/media/place_047_dol_guldur.webp",
+    "lib/media/place_078_rhosgobel.webp",
+    "lib/media/place_080_woodmen_town.webp",
+    "lib/media/lore_005_viglundins.webp",
+    "lib/media/lore_099_cadena.webp",
+    "lib/media/lore_100_dragonslayer.webp",
+    "lib/media/lore_viola_of_moonlight.webp",
+    "lib/media/lcdr-prep-s43_image_1.webp",
+    "lib/media/place_090_dale_overview.webp",
+    "lib/media/s06_combate_en_colinas_de_gundabad.webp",
+    "lib/media/s05_todos_los_pueblos.webp",
+    "lib/media/s05_pueblo_de_beorn.webp",
+    "lib/media/s05_puerta_de_los_elfos.webp",
+    "lib/media/s05_elfos_del_bosque.webp",
+    "lib/media/s05_viglundins.webp",
+    "lib/media/s05_gundabad.webp",
+    "lib/media/s08_travel_map.webp",
+    "lib/media/s08_ostag_cs.webp",
+    "lib/media/s08_ostag_cs_ii.webp",
+    "lib/media/s04_el_camino_del_bosque_viejo.webp",
+    "lib/media/s04_wargo.webp",
+    "lib/media/s33_viaje_al_norte.webp",
+    "lib/media/s33_estribaciones_meridionales.webp",
+    "lib/media/s45-el-mausoleo-de-girion-20240812172315142.webp",
+    "lib/media/s19_gandalf.webp",
+    "lib/media/s19_ruta_a_casa_beorn.webp",
+    "lib/media/s01_size500_oots_tednasmith_bilboandeagles_detail1_500.webp",
+    "lib/media/s01_mapa_rhovanion.webp",
+    "lib/media/s01_4519132-dark-forest.webp",
+    "lib/media/s01_the-hobbit-the-desolation-of-smaug-fx-046.webp",
+    "lib/media/s14_viaje_a_rhosgobel.webp",
+    "lib/media/s14_aranyas_en_el_bosque.webp",
+    "lib/media/s14_rhosgobel.webp",
+    "lib/media/s10_anduin_upper_valleis.webp",
+    "lib/media/lcdr-s41_image_1.webp",
+    "lib/media/s07_espectro_enano.webp",
+    "lib/media/s11_enfrentamiento_en_colinas_gundabad.webp",
+    "lib/media/s13_de_camino_a_beorn.webp",
+    "lib/media/s13_sur_del_anduil.webp",
+    "lib/media/lcdr-s39-la-búsqueda-de-la-mina-fireheart_image_2.webp",
+    "lib/media/lcdr-s43-20240223111834395.webp",
+    "lib/media/s02_troll.webp",
+    "lib/media/s02_oin.webp",
+    "lib/media/s26_enfrentamiento_con_los_orcos.webp",
+    "lib/media/s26_flechazo_mortal.webp",
+    "lib/media/s28_la_taberna.webp",
+    "lib/media/s28_weather.webp",
+    "lib/media/s28_beinhard.webp",
+    "lib/media/s12_vista_general.webp",
+    "lib/media/s12_mapa.webp",
+    "lib/media/s35_orcos_en_la_fundicion.webp",
+    "lib/media/s35_enfrentamiento_con_gibbet_king.webp",
+    "lib/media/s09_ficha_01.webp",
+    "lib/media/s09_combate_01.webp",
+    "lib/media/s16_la_torre_del_elfo_mapa.webp",
+    "lib/media/s16_la_torre_del_elfo_vista.webp",
+    "lib/media/s17_la_torre_del_elfo_plano.webp",
+    "lib/media/s30_combate_en_la_tumba.webp",
+    "lib/media/lcdr-s18-los-espíritus-del-bosque_image_1.webp",
+    "lib/media/s34_torre_orca.webp",
+    "lib/media/s34_combate_en_la_nieve.webp",
+    "lib/media/s15_enfrentamiento_con_dagma.webp",
+    "lib/media/s22_castillo_mirkwood.jpg",
+    "lib/media/s22_campamento_orco.webp",
+    "lib/media/s22_torre_enana.webp",
+    "lib/media/lcdr-s42_image_1.webp",
+    "lib/media/s37_combate_orcos.webp",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/scripts/webpage.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/scripts/webpage.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "lcdor_export/Notes/Characters/Anduin/Amfossa.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1736,
+      "exportedPath": "lcdor_export/notes/characters/anduin/amfossa.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Anduin/Beorn.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1687,
+      "exportedPath": "lcdor_export/notes/characters/anduin/beorn.html",
+      "dependencies": [
+        "lib/media/s03_beorn.webp",
+        "lib/media/s03_beorn.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Anduin/Cruac the Outlaw.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1134,
+      "exportedPath": "lcdor_export/notes/characters/anduin/cruac-the-outlaw.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Anduin/Drizoc.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1139,
+      "exportedPath": "lcdor_export/notes/characters/anduin/drizoc.html",
+      "dependencies": [
+        "lib/media/drizoc_image_1.webp",
+        "lib/media/drizoc_image_1.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Anduin/Gandalf.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 682,
+      "exportedPath": "lcdor_export/notes/characters/anduin/gandalf.html",
+      "dependencies": [
+        "lib/media/npc_081_gandalf.webp",
+        "lib/media/npc_081_gandalf.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Anduin/Gelvira.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1392,
+      "exportedPath": "lcdor_export/notes/characters/anduin/gelvira.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Anduin/Gorgol.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2202,
+      "exportedPath": "lcdor_export/notes/characters/anduin/gorgol.html",
+      "dependencies": [
+        "lib/media/gorgol_image_1.webp",
+        "lib/media/gorgol_image_1.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Anduin/Hwalda.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2054,
+      "exportedPath": "lcdor_export/notes/characters/anduin/hwalda.html",
+      "dependencies": [
+        "lib/media/npc_060_hwalda.webp",
+        "lib/media/npc_060_hwalda.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Anduin/Lonely Giant.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 880,
+      "exportedPath": "lcdor_export/notes/characters/anduin/lonely-giant.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Anduin/Mansbane.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1633,
+      "exportedPath": "lcdor_export/notes/characters/anduin/mansbane.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Anduin/Osred the rider.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 466,
+      "exportedPath": "lcdor_export/notes/characters/anduin/osred-the-rider.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Dale/Antiguo Burgomaestre.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 849,
+      "exportedPath": "lcdor_export/notes/characters/dale/antiguo-burgomaestre.html",
+      "dependencies": [
+        "lib/media/antiguo-burgomaestre_image_1.webp",
+        "lib/media/antiguo-burgomaestre_image_1.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Dale/Bardo.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2097,
+      "exportedPath": "lcdor_export/notes/characters/dale/bardo.html",
+      "dependencies": [
+        "lib/media/bardo_image_1.webp",
+        "lib/media/bardo_image_1.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Dale/Elstan.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2575,
+      "exportedPath": "lcdor_export/notes/characters/dale/elstan.html",
+      "dependencies": [
+        "lib/media/npc_087_elstan.webp",
+        "lib/media/npc_087_elstan.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Dale/Hacon Finson.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1629,
+      "exportedPath": "lcdor_export/notes/characters/dale/hacon-finson.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Dale/Lady Sara.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 698,
+      "exportedPath": "lcdor_export/notes/characters/dale/lady-sara.html",
+      "dependencies": [
+        "lib/media/npc_086_lady_sara.webp",
+        "lib/media/npc_086_lady_sara.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Dale/Merar.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 897,
+      "exportedPath": "lcdor_export/notes/characters/dale/merar.html",
+      "dependencies": [
+        "lib/media/npc_094_merar.webp",
+        "lib/media/npc_094_merar.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Dale/Rugash.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1082,
+      "exportedPath": "lcdor_export/notes/characters/dale/rugash.html",
+      "dependencies": [
+        "lib/media/npc_050_rugash.webp",
+        "lib/media/npc_050_rugash.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Dale/Vali.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1357,
+      "exportedPath": "lcdor_export/notes/characters/dale/vali.html",
+      "dependencies": [
+        "lib/media/npc_089_vali.webp",
+        "lib/media/npc_089_vali.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Dale/Zathir.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2072,
+      "exportedPath": "lcdor_export/notes/characters/dale/zathir.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Erebor/Balin.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 997,
+      "exportedPath": "lcdor_export/notes/characters/erebor/balin.html",
+      "dependencies": [
+        "lib/media/s02_balin.webp",
+        "lib/media/s02_balin.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Erebor/Dáin.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 885,
+      "exportedPath": "lcdor_export/notes/characters/erebor/dáin.html",
+      "dependencies": [
+        "lib/media/npc_095_dain.webp",
+        "lib/media/npc_095_dain.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Erebor/Domi.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1880,
+      "exportedPath": "lcdor_export/notes/characters/erebor/domi.html",
+      "dependencies": [
+        "lib/media/domi_image_1.webp",
+        "lib/media/domi_image_1.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Erebor/Gloin.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 645,
+      "exportedPath": "lcdor_export/notes/characters/erebor/gloin.html",
+      "dependencies": [
+        "lib/media/s02_gloin.webp",
+        "lib/media/s02_gloin.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Erebor/Munin.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1577,
+      "exportedPath": "lcdor_export/notes/characters/erebor/munin.html",
+      "dependencies": [
+        "lib/media/npc_082_munin.webp",
+        "lib/media/npc_082_munin.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Erebor/Niping.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1568,
+      "exportedPath": "lcdor_export/notes/characters/erebor/niping.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Erebor/Ori.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 845,
+      "exportedPath": "lcdor_export/notes/characters/erebor/ori.html",
+      "dependencies": [
+        "lib/media/npc_083_ori.webp",
+        "lib/media/npc_083_ori.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Ered Mithrin/Alkarin.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 84,
+      "exportedPath": "lcdor_export/notes/characters/ered-mithrin/alkarin.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Ered Mithrin/Ellaras.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1835,
+      "exportedPath": "lcdor_export/notes/characters/ered-mithrin/ellaras.html",
+      "dependencies": [
+        "lib/media/npc_062_ellaras.webp",
+        "lib/media/npc_062_ellaras.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Ered Mithrin/Frár Sin Barba.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2120,
+      "exportedPath": "lcdor_export/notes/characters/ered-mithrin/frár-sin-barba.html",
+      "dependencies": [
+        "lib/media/npc_068_frar.webp",
+        "lib/media/npc_068_frar.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Ered Mithrin/The Gibbet King.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 619,
+      "exportedPath": "lcdor_export/notes/characters/ered-mithrin/the-gibbet-king.html",
+      "dependencies": [
+        "lib/media/npc_101_gibbet_king.webp",
+        "lib/media/npc_101_gibbet_king.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Ered Mithrin/Kariel.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 84,
+      "exportedPath": "lcdor_export/notes/characters/ered-mithrin/kariel.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Ered Mithrin/Raenar.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 380,
+      "exportedPath": "lcdor_export/notes/characters/ered-mithrin/raenar.html",
+      "dependencies": [
+        "lib/media/npc_099_raenar.webp",
+        "lib/media/npc_099_raenar.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Ered Mithrin/Rey Dvalinor.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 84,
+      "exportedPath": "lcdor_export/notes/characters/ered-mithrin/rey-dvalinor.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Ered Mithrin/Witherfinger.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 509,
+      "exportedPath": "lcdor_export/notes/characters/ered-mithrin/witherfinger.html",
+      "dependencies": [
+        "lib/media/npc_101_witherfinger.webp",
+        "lib/media/npc_101_witherfinger.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/Beran.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 928,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/beran.html",
+      "dependencies": [
+        "lib/media/npc_061_beran.webp",
+        "lib/media/npc_061_beran.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/Bofri son of Bofur.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1311,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/bofri-son-of-bofur.html",
+      "dependencies": [
+        "lib/media/s03_bofri_hijo_bofur.webp",
+        "lib/media/s03_bofri_hijo_bofur.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/Dagmar.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1057,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/dagmar.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/Flardryn Umehic.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2571,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/flardryn-umehic.html",
+      "dependencies": [
+        "lib/media/flardryn-umehic_image_1.webp",
+        "lib/media/flardryn-umehic_image_1.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/Geirbald.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 993,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/geirbald.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/The Ghost of the Forest.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 961,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/the-ghost-of-the-forest.html",
+      "dependencies": [
+        "lib/media/npc_034_khamul.webp",
+        "lib/media/npc_034_khamul.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/La Dragona del Bosque.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 517,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/la-dragona-del-bosque.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/Maghaz.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1026,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/maghaz.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/Mogdred.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1716,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/mogdred.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/Radagast.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 778,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/radagast.html",
+      "dependencies": [
+        "lib/media/npc_076_radagast.webp",
+        "lib/media/npc_076_radagast.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/Tarik.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2689,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/tarik.html",
+      "dependencies": [
+        "lib/media/npc_096_tarik.webp",
+        "lib/media/npc_096_tarik.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/Tauler, Tyulqin y Sarqin.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 4425,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/tauler,-tyulqin-y-sarqin.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/The Great Vampire.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 3383,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/the-great-vampire.html",
+      "dependencies": [
+        "lib/media/the-great-vampire_image_1.webp",
+        "lib/media/the-great-vampire_image_1.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/The Necromancer.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 4573,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/the-necromancer.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/The Werewolf of Mirkwood.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1788,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/the-werewolf-of-mirkwood.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/Thranduil.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 853,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/thranduil.html",
+      "dependencies": [
+        "lib/media/thranduil_image_1.webp",
+        "lib/media/thranduil_image_1.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Mirkwood/Wodurishak.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2255,
+      "exportedPath": "lcdor_export/notes/characters/mirkwood/wodurishak.html",
+      "dependencies": [
+        "lib/media/wodurishak_image_1.webp",
+        "lib/media/wodurishak_image_1.webp"
+      ]
+    },
+    "lcdor_export/Notes/Characters/Party/old/Amras.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 976,
+      "exportedPath": "lcdor_export/notes/characters/party/old/amras.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Party/old/Astaldo.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 879,
+      "exportedPath": "lcdor_export/notes/characters/party/old/astaldo.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Party/old/Thonismund.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 773,
+      "exportedPath": "lcdor_export/notes/characters/party/old/thonismund.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Party/Adelbard Tuck-Baggings.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2651,
+      "exportedPath": "lcdor_export/notes/characters/party/adelbard-tuck-baggings.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Party/Blain.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2678,
+      "exportedPath": "lcdor_export/notes/characters/party/blain.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Party/Delileron.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2615,
+      "exportedPath": "lcdor_export/notes/characters/party/delileron.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Party/Eyvindr Finson.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2888,
+      "exportedPath": "lcdor_export/notes/characters/party/eyvindr-finson.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Party/Hans Grimald.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2846,
+      "exportedPath": "lcdor_export/notes/characters/party/hans-grimald.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Party/Ostag.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2697,
+      "exportedPath": "lcdor_export/notes/characters/party/ostag.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Characters/Party/Tolainas.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2452,
+      "exportedPath": "lcdor_export/notes/characters/party/tolainas.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Handouts/Hope economy.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1769,
+      "exportedPath": "lcdor_export/notes/handouts/hope-economy.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Handouts/Resumen procedimientos TOR2e.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 3572,
+      "exportedPath": "lcdor_export/notes/handouts/resumen-procedimientos-tor2e.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Anduin/Bar-en-Thurin.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 625,
+      "exportedPath": "lcdor_export/notes/locations/anduin/bar-en-thurin.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Anduin/Dimrill watch.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 498,
+      "exportedPath": "lcdor_export/notes/locations/anduin/dimrill-watch.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Anduin/Elendils Camp.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 479,
+      "exportedPath": "lcdor_export/notes/locations/anduin/elendils-camp.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Anduin/Granja Blacktom.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 565,
+      "exportedPath": "lcdor_export/notes/locations/anduin/granja-blacktom.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Anduin/Gundabad.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2617,
+      "exportedPath": "lcdor_export/notes/locations/anduin/gundabad.html",
+      "dependencies": [
+        "lib/media/gundabad_image_1.webp",
+        "lib/media/gundabad_image_1.webp",
+        "lib/media/gundabad_image_2.webp",
+        "lib/media/gundabad_image_2.webp"
+      ]
+    },
+    "lcdor_export/Notes/Locations/Anduin/Hag's Island.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 474,
+      "exportedPath": "lcdor_export/notes/locations/anduin/hag's-island.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Anduin/Isle of strangling trees.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 479,
+      "exportedPath": "lcdor_export/notes/locations/anduin/isle-of-strangling-trees.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Anduin/The Black Door.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 521,
+      "exportedPath": "lcdor_export/notes/locations/anduin/the-black-door.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Anduin/The Long Delve.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 473,
+      "exportedPath": "lcdor_export/notes/locations/anduin/the-long-delve.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Anduin/The Toft.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 612,
+      "exportedPath": "lcdor_export/notes/locations/anduin/the-toft.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Anduin/The wolfswood.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 501,
+      "exportedPath": "lcdor_export/notes/locations/anduin/the-wolfswood.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Anduin/Torre de vigilancia perdida.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 647,
+      "exportedPath": "lcdor_export/notes/locations/anduin/torre-de-vigilancia-perdida.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Anduin/Torre del Elfo.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 901,
+      "exportedPath": "lcdor_export/notes/locations/anduin/torre-del-elfo.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Dale/Ciudad del Lago.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 903,
+      "exportedPath": "lcdor_export/notes/locations/dale/ciudad-del-lago.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Dale/Dale.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 626,
+      "exportedPath": "lcdor_export/notes/locations/dale/dale.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Dale/Dorwinion.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1147,
+      "exportedPath": "lcdor_export/notes/locations/dale/dorwinion.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Dale/Edric's Town.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1660,
+      "exportedPath": "lcdor_export/notes/locations/dale/edric's-town.html",
+      "dependencies": [
+        "lib/media/place_049_edrics_town.webp",
+        "lib/media/place_049_edrics_town.webp"
+      ]
+    },
+    "lcdor_export/Notes/Locations/Dale/Erebor.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 595,
+      "exportedPath": "lcdor_export/notes/locations/dale/erebor.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Dale/Galford.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1268,
+      "exportedPath": "lcdor_export/notes/locations/dale/galford.html",
+      "dependencies": [
+        "lib/media/place_048_galford.webp",
+        "lib/media/place_048_galford.webp",
+        "lib/media/place_048_galford_the_lantern.webp",
+        "lib/media/place_048_galford_the_lantern.webp"
+      ]
+    },
+    "lcdor_export/Notes/Locations/Dale/Grimarr’s Hall.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 663,
+      "exportedPath": "lcdor_export/notes/locations/dale/grimarr’s-hall.html",
+      "dependencies": [
+        "lib/media/place_054_grimarrs_hall.webp",
+        "lib/media/place_054_grimarrs_hall.webp"
+      ]
+    },
+    "lcdor_export/Notes/Locations/Dale/Tumba del Burgomaestre.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 658,
+      "exportedPath": "lcdor_export/notes/locations/dale/tumba-del-burgomaestre.html",
+      "dependencies": [
+        "lib/media/place_052_a_chill_and_windsweept.webp",
+        "lib/media/place_052_a_chill_and_windsweept.webp"
+      ]
+    },
+    "lcdor_export/Notes/Locations/Ered Mithrin/Azaghar.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 3003,
+      "exportedPath": "lcdor_export/notes/locations/ered-mithrin/azaghar.html",
+      "dependencies": [
+        "lib/media/place_093_azaghar.webp",
+        "lib/media/place_093_azaghar.webp"
+      ]
+    },
+    "lcdor_export/Notes/Locations/Ered Mithrin/Barak-zar.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 3370,
+      "exportedPath": "lcdor_export/notes/locations/ered-mithrin/barak-zar.html",
+      "dependencies": [
+        "lib/media/place_092_barak_zar_plaza.webp",
+        "lib/media/place_092_barak_zar_plaza.webp"
+      ]
+    },
+    "lcdor_export/Notes/Locations/Ered Mithrin/Beinhard.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1343,
+      "exportedPath": "lcdor_export/notes/locations/ered-mithrin/beinhard.html",
+      "dependencies": [
+        "lib/media/lcdr-s39-la-búsqueda-de-la-mina-fireheart_image_1.webp",
+        "lib/media/lcdr-s39-la-búsqueda-de-la-mina-fireheart_image_1.webp"
+      ]
+    },
+    "lcdor_export/Notes/Locations/Ered Mithrin/facciones.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 13386,
+      "exportedPath": "lcdor_export/notes/locations/ered-mithrin/facciones.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Ered Mithrin/Fireheart Mine.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 10892,
+      "exportedPath": "lcdor_export/notes/locations/ered-mithrin/fireheart-mine.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Ered Mithrin/Greydelve.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1143,
+      "exportedPath": "lcdor_export/notes/locations/ered-mithrin/greydelve.html",
+      "dependencies": [
+        "lib/media/place_003_greydelve.webp",
+        "lib/media/place_003_greydelve.webp"
+      ]
+    },
+    "lcdor_export/Notes/Locations/Ered Mithrin/Khelektar.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 5254,
+      "exportedPath": "lcdor_export/notes/locations/ered-mithrin/khelektar.html",
+      "dependencies": [
+        "lib/media/place_091_khelektar.webp",
+        "lib/media/place_091_khelektar.webp"
+      ]
+    },
+    "lcdor_export/Notes/Locations/Ered Mithrin/Montañas Grises.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1275,
+      "exportedPath": "lcdor_export/notes/locations/ered-mithrin/montañas-grises.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Ered Mithrin/Zirakinbar.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 589,
+      "exportedPath": "lcdor_export/notes/locations/ered-mithrin/zirakinbar.html",
+      "dependencies": [
+        "lib/media/zirakinbar-20240225123453736.webp",
+        "lib/media/zirakinbar-20240225123453736.webp"
+      ]
+    },
+    "lcdor_export/Notes/Locations/Mirkwood/Barrows of the Northmen.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 447,
+      "exportedPath": "lcdor_export/notes/locations/mirkwood/barrows-of-the-northmen.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Mirkwood/Castillo de Fenbridge.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1394,
+      "exportedPath": "lcdor_export/notes/locations/mirkwood/castillo-de-fenbridge.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Mirkwood/Dol Guldur.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2142,
+      "exportedPath": "lcdor_export/notes/locations/mirkwood/dol-guldur.html",
+      "dependencies": [
+        "lib/media/place_047_dol_guldur.webp",
+        "lib/media/place_047_dol_guldur.webp"
+      ]
+    },
+    "lcdor_export/Notes/Locations/Mirkwood/Dwimmerhorn.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 479,
+      "exportedPath": "lcdor_export/notes/locations/mirkwood/dwimmerhorn.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Mirkwood/Emyn-nu-fuin.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 989,
+      "exportedPath": "lcdor_export/notes/locations/mirkwood/emyn-nu-fuin.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Mirkwood/La Casa del Lanternero.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 508,
+      "exportedPath": "lcdor_export/notes/locations/mirkwood/la-casa-del-lanternero.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Mirkwood/Rhosgobel.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 902,
+      "exportedPath": "lcdor_export/notes/locations/mirkwood/rhosgobel.html",
+      "dependencies": [
+        "lib/media/place_078_rhosgobel.webp",
+        "lib/media/place_078_rhosgobel.webp"
+      ]
+    },
+    "lcdor_export/Notes/Locations/Mirkwood/Tumsarna.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 645,
+      "exportedPath": "lcdor_export/notes/locations/mirkwood/tumsarna.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Mirkwood/Woodland Hall.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 3488,
+      "exportedPath": "lcdor_export/notes/locations/mirkwood/woodland-hall.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Locations/Mirkwood/Woodmen Town.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2667,
+      "exportedPath": "lcdor_export/notes/locations/mirkwood/woodmen-town.html",
+      "dependencies": [
+        "lib/media/place_080_woodmen_town.webp",
+        "lib/media/place_080_woodmen_town.webp"
+      ]
+    },
+    "lcdor_export/Notes/Locations/Mordor.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 382,
+      "exportedPath": "lcdor_export/notes/locations/mordor.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Lore/Anduin/A Campfire Tale.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2653,
+      "exportedPath": "lcdor_export/notes/lore/anduin/a-campfire-tale.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Lore/Anduin/Hombres de Gundabad.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 779,
+      "exportedPath": "lcdor_export/notes/lore/anduin/hombres-de-gundabad.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Lore/Anduin/Leofrings.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 463,
+      "exportedPath": "lcdor_export/notes/lore/anduin/leofrings.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Lore/Anduin/The Erringmen.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 482,
+      "exportedPath": "lcdor_export/notes/lore/anduin/the-erringmen.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Lore/Anduin/The steeds of the moon.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 420,
+      "exportedPath": "lcdor_export/notes/lore/anduin/the-steeds-of-the-moon.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Lore/Anduin/Viglundinos.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1503,
+      "exportedPath": "lcdor_export/notes/lore/anduin/viglundinos.html",
+      "dependencies": [
+        "lib/media/lore_005_viglundins.webp",
+        "lib/media/lore_005_viglundins.webp"
+      ]
+    },
+    "lcdor_export/Notes/Lore/Dale/Cadena de Thangorodrim.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1647,
+      "exportedPath": "lcdor_export/notes/lore/dale/cadena-de-thangorodrim.html",
+      "dependencies": [
+        "lib/media/lore_099_cadena.webp",
+        "lib/media/lore_099_cadena.webp"
+      ]
+    },
+    "lcdor_export/Notes/Lore/Dale/Dragonslayer Swords.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 869,
+      "exportedPath": "lcdor_export/notes/lore/dale/dragonslayer-swords.html",
+      "dependencies": [
+        "lib/media/lore_100_dragonslayer.webp",
+        "lib/media/lore_100_dragonslayer.webp"
+      ]
+    },
+    "lcdor_export/Notes/Lore/Dale/Pact of the North.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 765,
+      "exportedPath": "lcdor_export/notes/lore/dale/pact-of-the-north.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Lore/Dale/Viola de los espíritus.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1844,
+      "exportedPath": "lcdor_export/notes/lore/dale/viola-de-los-espíritus.html",
+      "dependencies": [
+        "lib/media/lore_viola_of_moonlight.webp",
+        "lib/media/lore_viola_of_moonlight.webp"
+      ]
+    },
+    "lcdor_export/Notes/Prep/lcdr - Frentes de la campaña.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2292,
+      "exportedPath": "lcdor_export/notes/prep/lcdr-frentes-de-la-campaña.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Prep/lcdr - Prep S37.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2424,
+      "exportedPath": "lcdor_export/notes/prep/lcdr-prep-s37.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Prep/lcdr - Prep S38.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 5275,
+      "exportedPath": "lcdor_export/notes/prep/lcdr-prep-s38.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Prep/lcdr - Prep S41.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 5981,
+      "exportedPath": "lcdor_export/notes/prep/lcdr-prep-s41.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Prep/lcdr - Prep S42.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 5727,
+      "exportedPath": "lcdor_export/notes/prep/lcdr-prep-s42.html",
+      "dependencies": [
+        "lib/media/s02_balin.webp",
+        "lib/media/s02_balin.webp",
+        "lib/media/npc_082_munin.webp",
+        "lib/media/npc_082_munin.webp"
+      ]
+    },
+    "lcdor_export/Notes/Prep/lcdr - Prep S43.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 8186,
+      "exportedPath": "lcdor_export/notes/prep/lcdr-prep-s43.html",
+      "dependencies": [
+        "lib/media/lcdr-prep-s43_image_1.webp",
+        "lib/media/lcdr-prep-s43_image_1.webp",
+        "lib/media/s02_balin.webp",
+        "lib/media/s02_balin.webp",
+        "lib/media/npc_082_munin.webp",
+        "lib/media/npc_082_munin.webp",
+        "lib/media/domi_image_1.webp",
+        "lib/media/domi_image_1.webp",
+        "lib/media/npc_034_khamul.webp",
+        "lib/media/npc_034_khamul.webp"
+      ]
+    },
+    "lcdor_export/Notes/Prep/lcdr - Prep S44.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 8421,
+      "exportedPath": "lcdor_export/notes/prep/lcdr-prep-s44.html",
+      "dependencies": [
+        "lib/media/lcdr-prep-s43_image_1.webp",
+        "lib/media/lcdr-prep-s43_image_1.webp",
+        "lib/media/domi_image_1.webp",
+        "lib/media/domi_image_1.webp",
+        "lib/media/npc_087_elstan.webp",
+        "lib/media/npc_087_elstan.webp",
+        "lib/media/npc_094_merar.webp",
+        "lib/media/npc_094_merar.webp",
+        "lib/media/npc_034_khamul.webp",
+        "lib/media/npc_034_khamul.webp"
+      ]
+    },
+    "lcdor_export/Notes/Prep/lcdr - Prep S45.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 4362,
+      "exportedPath": "lcdor_export/notes/prep/lcdr-prep-s45.html",
+      "dependencies": [
+        "lib/media/lcdr-prep-s43_image_1.webp",
+        "lib/media/lcdr-prep-s43_image_1.webp",
+        "lib/media/domi_image_1.webp",
+        "lib/media/domi_image_1.webp",
+        "lib/media/npc_034_khamul.webp",
+        "lib/media/npc_034_khamul.webp"
+      ]
+    },
+    "lcdor_export/Notes/Quests/0.- EAU - Añadir Quest.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 3501,
+      "exportedPath": "lcdor_export/notes/quests/0.-eau-añadir-quest.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Quests/lcdr - Q06 - Contactar con Frar Sin Barba.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1890,
+      "exportedPath": "lcdor_export/notes/quests/lcdr-q06-contactar-con-frar-sin-barba.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Quests/lcdr - Q12 - Devolver la viola a Ellaras.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 836,
+      "exportedPath": "lcdor_export/notes/quests/lcdr-q12-devolver-la-viola-a-ellaras.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Quests/lcdr - Q13 - El mensaje del Burgomaestre.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 651,
+      "exportedPath": "lcdor_export/notes/quests/lcdr-q13-el-mensaje-del-burgomaestre.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Quests/lcdr - Q03 - El señor de Fernbridge.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 534,
+      "exportedPath": "lcdor_export/notes/quests/lcdr-q03-el-señor-de-fernbridge.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Quests/lcdr - Q09 - Eliminar la amenaza de Rugash.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1090,
+      "exportedPath": "lcdor_export/notes/quests/lcdr-q09-eliminar-la-amenaza-de-rugash.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Quests/ldcr - Q14 - Encontrar a Domi.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 629,
+      "exportedPath": "lcdor_export/notes/quests/ldcr-q14-encontrar-a-domi.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Quests/lcdr - Q04 - Evitar que se despierten los poderes del bosque.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 675,
+      "exportedPath": "lcdor_export/notes/quests/lcdr-q04-evitar-que-se-despierten-los-poderes-del-bosque.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Quests/lcdr - Q02 - Investigar la Torre del Elfo.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 596,
+      "exportedPath": "lcdor_export/notes/quests/lcdr-q02-investigar-la-torre-del-elfo.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Quests/lcdr - Q00 - La búsqueda del ojo rojo.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 404,
+      "exportedPath": "lcdor_export/notes/quests/lcdr-q00-la-búsqueda-del-ojo-rojo.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Quests/lcdr - Q07 - Mantener a raya las razzias orcas de Gundabad.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 769,
+      "exportedPath": "lcdor_export/notes/quests/lcdr-q07-mantener-a-raya-las-razzias-orcas-de-gundabad.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Quests/lcdr - Q10 - Obtener información de cómo se encuentra el constructor de Linternas.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 774,
+      "exportedPath": "lcdor_export/notes/quests/lcdr-q10-obtener-información-de-cómo-se-encuentra-el-constructor-de-linternas.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Quests/lcdr - Q11 - Presentar los respetos a Bardo en su corte.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 870,
+      "exportedPath": "lcdor_export/notes/quests/lcdr-q11-presentar-los-respetos-a-bardo-en-su-corte.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Quests/lcdr - Q08 - Reconstrucción del camino de los enanos.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 651,
+      "exportedPath": "lcdor_export/notes/quests/lcdr-q08-reconstrucción-del-camino-de-los-enanos.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Quests/lcdr - Q05 - Recuperar documentos de Emyn-Nu-Fuin.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1086,
+      "exportedPath": "lcdor_export/notes/quests/lcdr-q05-recuperar-documentos-de-emyn-nu-fuin.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Quests/lcdr - Q01 - Rescatar a Balin y Oin.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 787,
+      "exportedPath": "lcdor_export/notes/quests/lcdr-q01-rescatar-a-balin-y-oin.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S32 - Agasajos reales.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 4918,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s32-agasajos-reales.html",
+      "dependencies": [
+        "lib/media/place_090_dale_overview.webp",
+        "lib/media/place_090_dale_overview.webp",
+        "lib/media/lore_100_dragonslayer.webp",
+        "lib/media/lore_100_dragonslayer.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S21 - Atravesando el bosque negro.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2579,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s21-atravesando-el-bosque-negro.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S06 - Bar-en-Thurin.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 4990,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s06-bar-en-thurin.html",
+      "dependencies": [
+        "lib/media/s06_combate_en_colinas_de_gundabad.webp",
+        "lib/media/s06_combate_en_colinas_de_gundabad.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S05 - Confesiones con Gelvira.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 11012,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s05-confesiones-con-gelvira.html",
+      "dependencies": [
+        "lib/media/s05_todos_los_pueblos.webp",
+        "lib/media/s05_todos_los_pueblos.webp",
+        "lib/media/s05_pueblo_de_beorn.webp",
+        "lib/media/s05_pueblo_de_beorn.webp",
+        "lib/media/s05_puerta_de_los_elfos.webp",
+        "lib/media/s05_puerta_de_los_elfos.webp",
+        "lib/media/s05_elfos_del_bosque.webp",
+        "lib/media/s05_elfos_del_bosque.webp",
+        "lib/media/s05_viglundins.webp",
+        "lib/media/s05_viglundins.webp",
+        "lib/media/s05_gundabad.webp",
+        "lib/media/s05_gundabad.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S01 - Creación de la comunidad.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 3788,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s01-creación-de-la-comunidad.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S44 - De Valle a Edric’s Town recopilando información.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 8369,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s44-de-valle-a-edric’s-town-recopilando-información.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S08 - Descanso en casa de Beorn.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 6458,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s08-descanso-en-casa-de-beorn.html",
+      "dependencies": [
+        "lib/media/s08_travel_map.webp",
+        "lib/media/s08_travel_map.webp",
+        "lib/media/s08_ostag_cs.webp",
+        "lib/media/s08_ostag_cs.webp",
+        "lib/media/s08_ostag_cs_ii.webp",
+        "lib/media/s08_ostag_cs_ii.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S04 - El camino del bosque viejo.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 7580,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s04-el-camino-del-bosque-viejo.html",
+      "dependencies": [
+        "lib/media/s03_bofri_hijo_bofur.webp",
+        "lib/media/s03_bofri_hijo_bofur.webp",
+        "lib/media/s04_el_camino_del_bosque_viejo.webp",
+        "lib/media/s04_el_camino_del_bosque_viejo.webp",
+        "lib/media/s04_wargo.webp",
+        "lib/media/s04_wargo.webp",
+        "lib/media/s03_beorn.webp",
+        "lib/media/s03_beorn.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S33 - El camino hacia el Norte.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 6695,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s33-el-camino-hacia-el-norte.html",
+      "dependencies": [
+        "lib/media/s33_viaje_al_norte.webp",
+        "lib/media/s33_viaje_al_norte.webp",
+        "lib/media/s33_estribaciones_meridionales.webp",
+        "lib/media/s33_estribaciones_meridionales.webp",
+        "lib/media/npc_101_witherfinger.webp",
+        "lib/media/npc_101_witherfinger.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S38 - El encuentro con Frár sin barba.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 8657,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s38-el-encuentro-con-frár-sin-barba.html",
+      "dependencies": [
+        "lib/media/npc_068_frar.webp",
+        "lib/media/npc_068_frar.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S45 - El Mausoleo de Girion.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 12435,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s45-el-mausoleo-de-girion.html",
+      "dependencies": [
+        "lib/media/s45-el-mausoleo-de-girion-20240812172315142.webp",
+        "lib/media/s45-el-mausoleo-de-girion-20240812172315142.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S46 - El Mausoleo de Girion II.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 8873,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s46-el-mausoleo-de-girion-ii.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S19 - El viaje con Gandalf.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 12113,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s19-el-viaje-con-gandalf.html",
+      "dependencies": [
+        "lib/media/s19_gandalf.webp",
+        "lib/media/s19_gandalf.webp",
+        "lib/media/s19_ruta_a_casa_beorn.webp",
+        "lib/media/s19_ruta_a_casa_beorn.webp",
+        "lib/media/gundabad_image_2.webp",
+        "lib/media/gundabad_image_2.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S02 - En busca de Balin y Oin.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 7660,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s02-en-busca-de-balin-y-oin.html",
+      "dependencies": [
+        "lib/media/s01_size500_oots_tednasmith_bilboandeagles_detail1_500.webp",
+        "lib/media/s01_size500_oots_tednasmith_bilboandeagles_detail1_500.webp",
+        "lib/media/s01_mapa_rhovanion.webp",
+        "lib/media/s01_mapa_rhovanion.webp",
+        "lib/media/s01_4519132-dark-forest.webp",
+        "lib/media/s01_4519132-dark-forest.webp",
+        "lib/media/s01_the-hobbit-the-desolation-of-smaug-fx-046.webp",
+        "lib/media/s01_the-hobbit-the-desolation-of-smaug-fx-046.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S14 - En busca de Radagast.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 6349,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s14-en-busca-de-radagast.html",
+      "dependencies": [
+        "lib/media/s14_viaje_a_rhosgobel.webp",
+        "lib/media/s14_viaje_a_rhosgobel.webp",
+        "lib/media/s14_aranyas_en_el_bosque.webp",
+        "lib/media/s14_aranyas_en_el_bosque.webp",
+        "lib/media/s14_rhosgobel.webp",
+        "lib/media/s14_rhosgobel.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S10 - En las cercanías de Gundabad.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 5479,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s10-en-las-cercanías-de-gundabad.html",
+      "dependencies": [
+        "lib/media/s10_anduin_upper_valleis.webp",
+        "lib/media/s10_anduin_upper_valleis.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S41 - Encuentros en el Bosque Negro.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 12239,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s41-encuentros-en-el-bosque-negro.html",
+      "dependencies": [
+        "lib/media/flardryn-umehic_image_1.webp",
+        "lib/media/flardryn-umehic_image_1.webp",
+        "lib/media/lcdr-s41_image_1.webp",
+        "lib/media/lcdr-s41_image_1.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S07 - Explorando Bar-en-Thurin.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 4060,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s07-explorando-bar-en-thurin.html",
+      "dependencies": [
+        "lib/media/s07_espectro_enano.webp",
+        "lib/media/s07_espectro_enano.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S11 - Hwalda la cazadora.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 4868,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s11-hwalda-la-cazadora.html",
+      "dependencies": [
+        "lib/media/s11_enfrentamiento_en_colinas_gundabad.webp",
+        "lib/media/s11_enfrentamiento_en_colinas_gundabad.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S13 - Informando a Beorn.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 5905,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s13-informando-a-beorn.html",
+      "dependencies": [
+        "lib/media/s13_de_camino_a_beorn.webp",
+        "lib/media/s13_de_camino_a_beorn.webp",
+        "lib/media/s13_sur_del_anduil.webp",
+        "lib/media/s13_sur_del_anduil.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S31 - Investigando en Erebor.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 10233,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s31-investigando-en-erebor.html",
+      "dependencies": [
+        "lib/media/npc_082_munin.webp",
+        "lib/media/npc_082_munin.webp",
+        "lib/media/npc_083_ori.webp",
+        "lib/media/npc_083_ori.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S39 - La búsqueda de la Mina Fireheart.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 12571,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s39-la-búsqueda-de-la-mina-fireheart.html",
+      "dependencies": [
+        "lib/media/lcdr-s39-la-búsqueda-de-la-mina-fireheart_image_1.webp",
+        "lib/media/lcdr-s39-la-búsqueda-de-la-mina-fireheart_image_1.webp",
+        "lib/media/lcdr-s39-la-búsqueda-de-la-mina-fireheart_image_2.webp",
+        "lib/media/lcdr-s39-la-búsqueda-de-la-mina-fireheart_image_2.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S43 - La cámara de Mazarbul.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 7438,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s43-la-cámara-de-mazarbul.html",
+      "dependencies": [
+        "lib/media/lcdr-s43-20240223111834395.webp",
+        "lib/media/lcdr-s43-20240223111834395.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S03 - La campana de los moradores del pantano.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 6043,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s03-la-campana-de-los-moradores-del-pantano.html",
+      "dependencies": [
+        "lib/media/s02_troll.webp",
+        "lib/media/s02_troll.webp",
+        "lib/media/s02_balin.webp",
+        "lib/media/s02_balin.webp",
+        "lib/media/s02_oin.webp",
+        "lib/media/s02_oin.webp",
+        "lib/media/s02_gloin.webp",
+        "lib/media/s02_gloin.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S26 - La caza del orco.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 4478,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s26-la-caza-del-orco.html",
+      "dependencies": [
+        "lib/media/s26_enfrentamiento_con_los_orcos.webp",
+        "lib/media/s26_enfrentamiento_con_los_orcos.webp",
+        "lib/media/s26_flechazo_mortal.webp",
+        "lib/media/s26_flechazo_mortal.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S28 - La ciudad minera al norte.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 11333,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s28-la-ciudad-minera-al-norte.html",
+      "dependencies": [
+        "lib/media/place_049_edrics_town.webp",
+        "lib/media/place_049_edrics_town.webp",
+        "lib/media/s28_la_taberna.webp",
+        "lib/media/s28_la_taberna.webp",
+        "lib/media/npc_086_lady_sara.webp",
+        "lib/media/npc_086_lady_sara.webp",
+        "lib/media/s28_weather.webp",
+        "lib/media/s28_weather.webp",
+        "lib/media/s28_beinhard.webp",
+        "lib/media/s28_beinhard.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S12 - La guerra civil viglundina.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 5634,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s12-la-guerra-civil-viglundina.html",
+      "dependencies": [
+        "lib/media/s12_vista_general.webp",
+        "lib/media/s12_vista_general.webp",
+        "lib/media/s12_mapa.webp",
+        "lib/media/s12_mapa.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S35 - La torre de los enanos.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 9238,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s35-la-torre-de-los-enanos.html",
+      "dependencies": [
+        "lib/media/s35_orcos_en_la_fundicion.webp",
+        "lib/media/s35_orcos_en_la_fundicion.webp",
+        "lib/media/npc_101_gibbet_king.webp",
+        "lib/media/npc_101_gibbet_king.webp",
+        "lib/media/s35_enfrentamiento_con_gibbet_king.webp",
+        "lib/media/s35_enfrentamiento_con_gibbet_king.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S09 - La Torre de Vigilancia Perdida.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 7240,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s09-la-torre-de-vigilancia-perdida.html",
+      "dependencies": [
+        "lib/media/s09_ficha_01.webp",
+        "lib/media/s09_ficha_01.webp",
+        "lib/media/s09_combate_01.webp",
+        "lib/media/s09_combate_01.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S16 - La Torre del Elfo.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 4680,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s16-la-torre-del-elfo.html",
+      "dependencies": [
+        "lib/media/s16_la_torre_del_elfo_mapa.webp",
+        "lib/media/s16_la_torre_del_elfo_mapa.webp",
+        "lib/media/s16_la_torre_del_elfo_vista.webp",
+        "lib/media/s16_la_torre_del_elfo_vista.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S17 - La Torre del Elfo (II).md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 6583,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s17-la-torre-del-elfo-(ii).html",
+      "dependencies": [
+        "lib/media/s16_la_torre_del_elfo_vista.webp",
+        "lib/media/s16_la_torre_del_elfo_vista.webp",
+        "lib/media/s17_la_torre_del_elfo_plano.webp",
+        "lib/media/s17_la_torre_del_elfo_plano.webp",
+        "lib/media/s16_la_torre_del_elfo_mapa.webp",
+        "lib/media/s16_la_torre_del_elfo_mapa.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S30 - La Tumba del burgomaestre.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 9670,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s30-la-tumba-del-burgomaestre.html",
+      "dependencies": [
+        "lib/media/s30_combate_en_la_tumba.webp",
+        "lib/media/s30_combate_en_la_tumba.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S18 - Los espíritus del Bosque.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 3348,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s18-los-espíritus-del-bosque.html",
+      "dependencies": [
+        "lib/media/lcdr-s18-los-espíritus-del-bosque_image_1.webp",
+        "lib/media/lcdr-s18-los-espíritus-del-bosque_image_1.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S27 - Los honores de parte de un Rey.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 11082,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s27-los-honores-de-parte-de-un-rey.html",
+      "dependencies": [
+        "lib/media/place_048_galford.webp",
+        "lib/media/place_048_galford.webp",
+        "lib/media/npc_087_elstan.webp",
+        "lib/media/npc_087_elstan.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S34 - Orcos en las cumbres nevadas.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 5395,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s34-orcos-en-las-cumbres-nevadas.html",
+      "dependencies": [
+        "lib/media/s34_torre_orca.webp",
+        "lib/media/s34_torre_orca.webp",
+        "lib/media/s34_combate_en_la_nieve.webp",
+        "lib/media/s34_combate_en_la_nieve.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S36 - Renovados por dentro y por fuera.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 9607,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s36-renovados-por-dentro-y-por-fuera.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S40 - Retorno a Casa de Beorn.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 4346,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s40-retorno-a-casa-de-beorn.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S15 - Rosghobel.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 7043,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s15-rosghobel.html",
+      "dependencies": [
+        "lib/media/s15_enfrentamiento_con_dagma.webp",
+        "lib/media/s15_enfrentamiento_con_dagma.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S20 - Rumbo a Emyn-nu-Fuin.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 6236,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s20-rumbo-a-emyn-nu-fuin.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S00 - Sesión Cero.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 5549,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s00-sesión-cero.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S23 - Un descanso y problemas en el norte.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2050,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s23-un-descanso-y-problemas-en-el-norte.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S24 - Un descanso y problemas en el norte II.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 4094,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s24-un-descanso-y-problemas-en-el-norte-ii.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S25 - Un descanso y problemas en el norte III.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 3020,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s25-un-descanso-y-problemas-en-el-norte-iii.html",
+      "dependencies": []
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S22 - Un elfo entre montañas.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 7489,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s22-un-elfo-entre-montañas.html",
+      "dependencies": [
+        "lib/media/s22_castillo_mirkwood.jpg",
+        "lib/media/s22_castillo_mirkwood.jpg",
+        "lib/media/s22_campamento_orco.webp",
+        "lib/media/s22_campamento_orco.webp",
+        "lib/media/s22_torre_enana.webp",
+        "lib/media/s22_torre_enana.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S29 - Un espectro en el camino.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 10768,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s29-un-espectro-en-el-camino.html",
+      "dependencies": [
+        "lib/media/s28_beinhard.webp",
+        "lib/media/s28_beinhard.webp",
+        "lib/media/npc_094_merar.webp",
+        "lib/media/npc_094_merar.webp",
+        "lib/media/lore_viola_of_moonlight.webp",
+        "lib/media/lore_viola_of_moonlight.webp",
+        "lib/media/antiguo-burgomaestre_image_1.webp",
+        "lib/media/antiguo-burgomaestre_image_1.webp",
+        "lib/media/npc_099_raenar.webp",
+        "lib/media/npc_099_raenar.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S42 - Un inesperado encuentro llegando a ciudad del Lago.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 10085,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s42-un-inesperado-encuentro-llegando-a-ciudad-del-lago.html",
+      "dependencies": [
+        "lib/media/lcdr-s42_image_1.webp",
+        "lib/media/lcdr-s42_image_1.webp"
+      ]
+    },
+    "lcdor_export/Notes/Sessions/lcdr - S37 - Volviendo a la ciudad minera.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 4253,
+      "exportedPath": "lcdor_export/notes/sessions/lcdr-s37-volviendo-a-la-ciudad-minera.html",
+      "dependencies": [
+        "lib/media/s37_combate_orcos.webp",
+        "lib/media/s37_combate_orcos.webp"
+      ]
+    },
+    "lcdor_export/z_img/Antiguo Burgomaestre_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 10804,
+      "exportedPath": "lcdor_export/z_img/antiguo-burgomaestre_image_1.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/Bardo_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 43536,
+      "exportedPath": "lcdor_export/z_img/bardo_image_1.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/Domi_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 29852,
+      "exportedPath": "lcdor_export/z_img/domi_image_1.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/Drizoc_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 87666,
+      "exportedPath": "lcdor_export/z_img/drizoc_image_1.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/Flardryn Umehic_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 81356,
+      "exportedPath": "lcdor_export/z_img/flardryn-umehic_image_1.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/Gorgol_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 10940,
+      "exportedPath": "lcdor_export/z_img/gorgol_image_1.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/Gundabad_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 296374,
+      "exportedPath": "lcdor_export/z_img/gundabad_image_1.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/Gundabad_image_2.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 75410,
+      "exportedPath": "lcdor_export/z_img/gundabad_image_2.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/lcdr - Prep S43_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 55860,
+      "exportedPath": "lcdor_export/z_img/lcdr-prep-s43_image_1.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/lcdr - S18 - Los espíritus del Bosque_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 554404,
+      "exportedPath": "lcdor_export/z_img/lcdr-s18-los-espíritus-del-bosque_image_1.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/lcdr - S39 - La búsqueda de la Mina Fireheart_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 115952,
+      "exportedPath": "lcdor_export/z_img/lcdr-s39-la-búsqueda-de-la-mina-fireheart_image_1.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/lcdr - S39 - La búsqueda de la Mina Fireheart_image_2.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 107232,
+      "exportedPath": "lcdor_export/z_img/lcdr-s39-la-búsqueda-de-la-mina-fireheart_image_2.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/lcdr - S41_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 67368,
+      "exportedPath": "lcdor_export/z_img/lcdr-s41_image_1.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/lcdr - S42_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 120354,
+      "exportedPath": "lcdor_export/z_img/lcdr-s42_image_1.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/lcdr - S43-20240223111834395.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 39484,
+      "exportedPath": "lcdor_export/z_img/lcdr-s43-20240223111834395.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/lore_005_viglundins.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 85176,
+      "exportedPath": "lcdor_export/z_img/lore_005_viglundins.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/lore_099_cadena.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 31098,
+      "exportedPath": "lcdor_export/z_img/lore_099_cadena.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/lore_100_dragonslayer.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 41586,
+      "exportedPath": "lcdor_export/z_img/lore_100_dragonslayer.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/lore_viola_of_moonlight.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 21644,
+      "exportedPath": "lcdor_export/z_img/lore_viola_of_moonlight.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_034_khamul.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 45938,
+      "exportedPath": "lcdor_export/z_img/npc_034_khamul.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_050_rugash.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 43106,
+      "exportedPath": "lcdor_export/z_img/npc_050_rugash.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_060_hwalda.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 59118,
+      "exportedPath": "lcdor_export/z_img/npc_060_hwalda.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_061_beran.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 29994,
+      "exportedPath": "lcdor_export/z_img/npc_061_beran.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_062_ellaras.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2592,
+      "exportedPath": "lcdor_export/z_img/npc_062_ellaras.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_068_frar.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 9220,
+      "exportedPath": "lcdor_export/z_img/npc_068_frar.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_076_radagast.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 36784,
+      "exportedPath": "lcdor_export/z_img/npc_076_radagast.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_081_gandalf.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 98126,
+      "exportedPath": "lcdor_export/z_img/npc_081_gandalf.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_082_munin.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 14594,
+      "exportedPath": "lcdor_export/z_img/npc_082_munin.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_083_ori.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 11654,
+      "exportedPath": "lcdor_export/z_img/npc_083_ori.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_086_lady_sara.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 95902,
+      "exportedPath": "lcdor_export/z_img/npc_086_lady_sara.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_087_elstan.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 18358,
+      "exportedPath": "lcdor_export/z_img/npc_087_elstan.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_089_vali.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 36294,
+      "exportedPath": "lcdor_export/z_img/npc_089_vali.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_094_merar.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 8232,
+      "exportedPath": "lcdor_export/z_img/npc_094_merar.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_095_dain.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 63198,
+      "exportedPath": "lcdor_export/z_img/npc_095_dain.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_096_tarik.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 31164,
+      "exportedPath": "lcdor_export/z_img/npc_096_tarik.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_099_raenar.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 101032,
+      "exportedPath": "lcdor_export/z_img/npc_099_raenar.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_101_gibbet_king.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 11132,
+      "exportedPath": "lcdor_export/z_img/npc_101_gibbet_king.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/npc_101_witherfinger.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 11726,
+      "exportedPath": "lcdor_export/z_img/npc_101_witherfinger.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/place_003_greydelve.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 136848,
+      "exportedPath": "lcdor_export/z_img/place_003_greydelve.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/place_047_dol_guldur.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 39790,
+      "exportedPath": "lcdor_export/z_img/place_047_dol_guldur.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/place_048_galford.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 81308,
+      "exportedPath": "lcdor_export/z_img/place_048_galford.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/place_048_galford_the_lantern.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 70074,
+      "exportedPath": "lcdor_export/z_img/place_048_galford_the_lantern.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/place_049_Edrics_Town.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 560474,
+      "exportedPath": "lcdor_export/z_img/place_049_edrics_town.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/place_052_a_chill_and_windsweept.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 115582,
+      "exportedPath": "lcdor_export/z_img/place_052_a_chill_and_windsweept.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/place_054_grimarrs_hall.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 53978,
+      "exportedPath": "lcdor_export/z_img/place_054_grimarrs_hall.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/place_078_rhosgobel.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 90936,
+      "exportedPath": "lcdor_export/z_img/place_078_rhosgobel.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/place_079_woodland_hall.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 76734,
+      "exportedPath": "lcdor_export/z_img/place_079_woodland_hall.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/place_080_woodmen_town.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 70594,
+      "exportedPath": "lcdor_export/z_img/place_080_woodmen_town.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/place_090_dale.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 3537290,
+      "exportedPath": "lcdor_export/z_img/place_090_dale.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/place_090_dale_overview.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 90434,
+      "exportedPath": "lcdor_export/z_img/place_090_dale_overview.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/place_091_Khelektar.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 152078,
+      "exportedPath": "lcdor_export/z_img/place_091_khelektar.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/place_092_barak_zar_plaza.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 182984,
+      "exportedPath": "lcdor_export/z_img/place_092_barak_zar_plaza.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/place_093_Azaghar.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 45532,
+      "exportedPath": "lcdor_export/z_img/place_093_azaghar.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s01_4519132-dark-forest.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 41592,
+      "exportedPath": "lcdor_export/z_img/s01_4519132-dark-forest.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s01_mapa_rhovanion.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 594172,
+      "exportedPath": "lcdor_export/z_img/s01_mapa_rhovanion.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s01_size500_oots_tednasmith_bilboandeagles_detail1_500.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 19022,
+      "exportedPath": "lcdor_export/z_img/s01_size500_oots_tednasmith_bilboandeagles_detail1_500.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s01_the-hobbit-the-desolation-of-smaug-fx-046.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 7252,
+      "exportedPath": "lcdor_export/z_img/s01_the-hobbit-the-desolation-of-smaug-fx-046.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s02_balin.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 25678,
+      "exportedPath": "lcdor_export/z_img/s02_balin.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s02_gloin.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 15736,
+      "exportedPath": "lcdor_export/z_img/s02_gloin.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s02_oin.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 26404,
+      "exportedPath": "lcdor_export/z_img/s02_oin.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s02_troll.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 14492,
+      "exportedPath": "lcdor_export/z_img/s02_troll.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s03_beorn.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 105078,
+      "exportedPath": "lcdor_export/z_img/s03_beorn.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s03_bofri_hijo_bofur.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 33036,
+      "exportedPath": "lcdor_export/z_img/s03_bofri_hijo_bofur.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s04_el_camino_del_bosque_viejo.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 234632,
+      "exportedPath": "lcdor_export/z_img/s04_el_camino_del_bosque_viejo.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s04_wargo.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 37450,
+      "exportedPath": "lcdor_export/z_img/s04_wargo.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s05_elfos_del_bosque.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 87140,
+      "exportedPath": "lcdor_export/z_img/s05_elfos_del_bosque.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s05_gundabad.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 88288,
+      "exportedPath": "lcdor_export/z_img/s05_gundabad.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s05_pueblo_de_beorn.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 86410,
+      "exportedPath": "lcdor_export/z_img/s05_pueblo_de_beorn.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s05_puerta_de_los_elfos.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 88266,
+      "exportedPath": "lcdor_export/z_img/s05_puerta_de_los_elfos.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s05_todos_los_pueblos.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 84266,
+      "exportedPath": "lcdor_export/z_img/s05_todos_los_pueblos.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s05_viglundins.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 88978,
+      "exportedPath": "lcdor_export/z_img/s05_viglundins.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s06_combate_en_colinas_de_gundabad.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 75956,
+      "exportedPath": "lcdor_export/z_img/s06_combate_en_colinas_de_gundabad.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s07_espectro_enano.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 35872,
+      "exportedPath": "lcdor_export/z_img/s07_espectro_enano.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s08_ostag_cs.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 53398,
+      "exportedPath": "lcdor_export/z_img/s08_ostag_cs.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s08_ostag_cs_ii.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 61610,
+      "exportedPath": "lcdor_export/z_img/s08_ostag_cs_ii.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s08_travel_map.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 731878,
+      "exportedPath": "lcdor_export/z_img/s08_travel_map.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s09_combate_01.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 95558,
+      "exportedPath": "lcdor_export/z_img/s09_combate_01.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s09_ficha_01.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 111988,
+      "exportedPath": "lcdor_export/z_img/s09_ficha_01.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s10_anduin_upper_valleis.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 201386,
+      "exportedPath": "lcdor_export/z_img/s10_anduin_upper_valleis.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s11_enfrentamiento_en_colinas_gundabad.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 85544,
+      "exportedPath": "lcdor_export/z_img/s11_enfrentamiento_en_colinas_gundabad.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s12_mapa.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 87614,
+      "exportedPath": "lcdor_export/z_img/s12_mapa.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s12_vista_general.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 102902,
+      "exportedPath": "lcdor_export/z_img/s12_vista_general.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s13_de_camino_a_beorn.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 181938,
+      "exportedPath": "lcdor_export/z_img/s13_de_camino_a_beorn.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s13_sur_del_anduil.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 265492,
+      "exportedPath": "lcdor_export/z_img/s13_sur_del_anduil.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s14_aranyas_en_el_bosque.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 35254,
+      "exportedPath": "lcdor_export/z_img/s14_aranyas_en_el_bosque.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s14_rhosgobel.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 63488,
+      "exportedPath": "lcdor_export/z_img/s14_rhosgobel.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s14_viaje_a_rhosgobel.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 138100,
+      "exportedPath": "lcdor_export/z_img/s14_viaje_a_rhosgobel.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s15_enfrentamiento_con_dagma.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 85742,
+      "exportedPath": "lcdor_export/z_img/s15_enfrentamiento_con_dagma.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s16_la_torre_del_elfo_mapa.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 87936,
+      "exportedPath": "lcdor_export/z_img/s16_la_torre_del_elfo_mapa.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s16_la_torre_del_elfo_vista.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 27450,
+      "exportedPath": "lcdor_export/z_img/s16_la_torre_del_elfo_vista.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s17_la_torre_del_elfo_plano.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 7822,
+      "exportedPath": "lcdor_export/z_img/s17_la_torre_del_elfo_plano.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s19_gandalf.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 83376,
+      "exportedPath": "lcdor_export/z_img/s19_gandalf.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s19_ruta_a_casa_beorn.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 200776,
+      "exportedPath": "lcdor_export/z_img/s19_ruta_a_casa_beorn.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s22_campamento_orco.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 28280,
+      "exportedPath": "lcdor_export/z_img/s22_campamento_orco.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s22_castillo_mirkwood.jpg": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1917739,
+      "exportedPath": "lcdor_export/z_img/s22_castillo_mirkwood.jpg",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s22_torre_enana.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 30928,
+      "exportedPath": "lcdor_export/z_img/s22_torre_enana.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s26_enfrentamiento_con_los_orcos.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 100742,
+      "exportedPath": "lcdor_export/z_img/s26_enfrentamiento_con_los_orcos.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s26_flechazo_mortal.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 31118,
+      "exportedPath": "lcdor_export/z_img/s26_flechazo_mortal.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s28_beinhard.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 45582,
+      "exportedPath": "lcdor_export/z_img/s28_beinhard.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s28_la_taberna.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 42166,
+      "exportedPath": "lcdor_export/z_img/s28_la_taberna.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s28_weather.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 9132,
+      "exportedPath": "lcdor_export/z_img/s28_weather.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s30_combate_en_la_tumba.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 137532,
+      "exportedPath": "lcdor_export/z_img/s30_combate_en_la_tumba.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s33_estribaciones_meridionales.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 29610,
+      "exportedPath": "lcdor_export/z_img/s33_estribaciones_meridionales.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s33_viaje_al_norte.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 51456,
+      "exportedPath": "lcdor_export/z_img/s33_viaje_al_norte.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s34_combate_en_la_nieve.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 141484,
+      "exportedPath": "lcdor_export/z_img/s34_combate_en_la_nieve.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s34_torre_orca.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 78686,
+      "exportedPath": "lcdor_export/z_img/s34_torre_orca.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s35_enfrentamiento_con_gibbet_king.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 75080,
+      "exportedPath": "lcdor_export/z_img/s35_enfrentamiento_con_gibbet_king.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s35_orcos_en_la_fundicion.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 48810,
+      "exportedPath": "lcdor_export/z_img/s35_orcos_en_la_fundicion.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/s37_combate_orcos.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 132164,
+      "exportedPath": "lcdor_export/z_img/s37_combate_orcos.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/S45 - El Mausoleo de Girion-20240812172315142.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 82208,
+      "exportedPath": "lcdor_export/z_img/s45-el-mausoleo-de-girion-20240812172315142.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/SWRPGFFG - Session 00_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 18042,
+      "exportedPath": "lcdor_export/z_img/swrpgffg-session-00_image_1.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/SWRPGFFG - Session 00_image_2.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 16946,
+      "exportedPath": "lcdor_export/z_img/swrpgffg-session-00_image_2.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/SWRPGFFG - Session 00_image_3.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 24792,
+      "exportedPath": "lcdor_export/z_img/swrpgffg-session-00_image_3.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/SWRPGFFG - Session 00_image_4.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 25876,
+      "exportedPath": "lcdor_export/z_img/swrpgffg-session-00_image_4.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/SWRPGFFG - Session 00_image_5.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 12788,
+      "exportedPath": "lcdor_export/z_img/swrpgffg-session-00_image_5.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/SWRPGFFG - Session 00_image_6.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 96890,
+      "exportedPath": "lcdor_export/z_img/swrpgffg-session-00_image_6.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/The Great Vampire_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 16890,
+      "exportedPath": "lcdor_export/z_img/the-great-vampire_image_1.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/Thranduil_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 135358,
+      "exportedPath": "lcdor_export/z_img/thranduil_image_1.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/wilderland_map_original.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1347668,
+      "exportedPath": "lcdor_export/z_img/wilderland_map_original.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/Wodurishak_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 77710,
+      "exportedPath": "lcdor_export/z_img/wodurishak_image_1.webp",
+      "dependencies": []
+    },
+    "lcdor_export/z_img/Zirakinbar-20240225123453736.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 34370,
+      "exportedPath": "lcdor_export/z_img/zirakinbar-20240225123453736.webp",
+      "dependencies": []
+    },
+    "lcdor_export/index.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 11643,
+      "exportedPath": "lcdor_export/index.html",
+      "dependencies": [
+        "lcdor_export/z_img/wilderland_map_original.webp"
+      ]
+    },
+    "lcdor_export/Mapa lcdor jugadores.md": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1100,
+      "exportedPath": "lcdor_export/mapa-lcdor-jugadores.html",
+      "dependencies": [
+        "lcdor_export/z_img/wilderland_map_original.webp"
+      ]
+    },
+    "lib/media/s03_beorn.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 105078,
+      "exportedPath": "lib/media/s03_beorn.webp",
+      "dependencies": []
+    },
+    "lib/media/drizoc_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 87666,
+      "exportedPath": "lib/media/drizoc_image_1.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_081_gandalf.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 98126,
+      "exportedPath": "lib/media/npc_081_gandalf.webp",
+      "dependencies": []
+    },
+    "lib/media/gorgol_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 10940,
+      "exportedPath": "lib/media/gorgol_image_1.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_060_hwalda.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 59118,
+      "exportedPath": "lib/media/npc_060_hwalda.webp",
+      "dependencies": []
+    },
+    "lib/media/antiguo-burgomaestre_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 10804,
+      "exportedPath": "lib/media/antiguo-burgomaestre_image_1.webp",
+      "dependencies": []
+    },
+    "lib/media/bardo_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 43536,
+      "exportedPath": "lib/media/bardo_image_1.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_087_elstan.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 18358,
+      "exportedPath": "lib/media/npc_087_elstan.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_086_lady_sara.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 95902,
+      "exportedPath": "lib/media/npc_086_lady_sara.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_094_merar.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 8232,
+      "exportedPath": "lib/media/npc_094_merar.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_050_rugash.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 43106,
+      "exportedPath": "lib/media/npc_050_rugash.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_089_vali.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 36294,
+      "exportedPath": "lib/media/npc_089_vali.webp",
+      "dependencies": []
+    },
+    "lib/media/s02_balin.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 25678,
+      "exportedPath": "lib/media/s02_balin.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_095_dain.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 63198,
+      "exportedPath": "lib/media/npc_095_dain.webp",
+      "dependencies": []
+    },
+    "lib/media/domi_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 29852,
+      "exportedPath": "lib/media/domi_image_1.webp",
+      "dependencies": []
+    },
+    "lib/media/s02_gloin.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 15736,
+      "exportedPath": "lib/media/s02_gloin.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_082_munin.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 14594,
+      "exportedPath": "lib/media/npc_082_munin.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_083_ori.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 11654,
+      "exportedPath": "lib/media/npc_083_ori.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_062_ellaras.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 2592,
+      "exportedPath": "lib/media/npc_062_ellaras.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_068_frar.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 9220,
+      "exportedPath": "lib/media/npc_068_frar.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_101_gibbet_king.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 11132,
+      "exportedPath": "lib/media/npc_101_gibbet_king.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_099_raenar.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 101032,
+      "exportedPath": "lib/media/npc_099_raenar.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_101_witherfinger.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 11726,
+      "exportedPath": "lib/media/npc_101_witherfinger.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_061_beran.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 29994,
+      "exportedPath": "lib/media/npc_061_beran.webp",
+      "dependencies": []
+    },
+    "lib/media/s03_bofri_hijo_bofur.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 33036,
+      "exportedPath": "lib/media/s03_bofri_hijo_bofur.webp",
+      "dependencies": []
+    },
+    "lib/media/flardryn-umehic_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 81356,
+      "exportedPath": "lib/media/flardryn-umehic_image_1.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_034_khamul.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 45938,
+      "exportedPath": "lib/media/npc_034_khamul.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_076_radagast.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 36784,
+      "exportedPath": "lib/media/npc_076_radagast.webp",
+      "dependencies": []
+    },
+    "lib/media/npc_096_tarik.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 31164,
+      "exportedPath": "lib/media/npc_096_tarik.webp",
+      "dependencies": []
+    },
+    "lib/media/the-great-vampire_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 16890,
+      "exportedPath": "lib/media/the-great-vampire_image_1.webp",
+      "dependencies": []
+    },
+    "lib/media/thranduil_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 135358,
+      "exportedPath": "lib/media/thranduil_image_1.webp",
+      "dependencies": []
+    },
+    "lib/media/wodurishak_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 77710,
+      "exportedPath": "lib/media/wodurishak_image_1.webp",
+      "dependencies": []
+    },
+    "lib/media/gundabad_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 296374,
+      "exportedPath": "lib/media/gundabad_image_1.webp",
+      "dependencies": []
+    },
+    "lib/media/gundabad_image_2.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 75410,
+      "exportedPath": "lib/media/gundabad_image_2.webp",
+      "dependencies": []
+    },
+    "lib/media/place_049_edrics_town.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 560474,
+      "exportedPath": "lib/media/place_049_edrics_town.webp",
+      "dependencies": []
+    },
+    "lib/media/place_048_galford.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 81308,
+      "exportedPath": "lib/media/place_048_galford.webp",
+      "dependencies": []
+    },
+    "lib/media/place_048_galford_the_lantern.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 70074,
+      "exportedPath": "lib/media/place_048_galford_the_lantern.webp",
+      "dependencies": []
+    },
+    "lib/media/place_054_grimarrs_hall.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 53978,
+      "exportedPath": "lib/media/place_054_grimarrs_hall.webp",
+      "dependencies": []
+    },
+    "lib/media/place_052_a_chill_and_windsweept.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 115582,
+      "exportedPath": "lib/media/place_052_a_chill_and_windsweept.webp",
+      "dependencies": []
+    },
+    "lib/media/place_093_azaghar.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 45532,
+      "exportedPath": "lib/media/place_093_azaghar.webp",
+      "dependencies": []
+    },
+    "lib/media/place_092_barak_zar_plaza.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 182984,
+      "exportedPath": "lib/media/place_092_barak_zar_plaza.webp",
+      "dependencies": []
+    },
+    "lib/media/lcdr-s39-la-búsqueda-de-la-mina-fireheart_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 115952,
+      "exportedPath": "lib/media/lcdr-s39-la-búsqueda-de-la-mina-fireheart_image_1.webp",
+      "dependencies": []
+    },
+    "lib/media/place_003_greydelve.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 136848,
+      "exportedPath": "lib/media/place_003_greydelve.webp",
+      "dependencies": []
+    },
+    "lib/media/place_091_khelektar.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 152078,
+      "exportedPath": "lib/media/place_091_khelektar.webp",
+      "dependencies": []
+    },
+    "lib/media/zirakinbar-20240225123453736.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 34370,
+      "exportedPath": "lib/media/zirakinbar-20240225123453736.webp",
+      "dependencies": []
+    },
+    "lib/media/place_047_dol_guldur.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 39790,
+      "exportedPath": "lib/media/place_047_dol_guldur.webp",
+      "dependencies": []
+    },
+    "lib/media/place_078_rhosgobel.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 90936,
+      "exportedPath": "lib/media/place_078_rhosgobel.webp",
+      "dependencies": []
+    },
+    "lib/media/place_080_woodmen_town.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 70594,
+      "exportedPath": "lib/media/place_080_woodmen_town.webp",
+      "dependencies": []
+    },
+    "lib/media/lore_005_viglundins.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 85176,
+      "exportedPath": "lib/media/lore_005_viglundins.webp",
+      "dependencies": []
+    },
+    "lib/media/lore_099_cadena.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 31098,
+      "exportedPath": "lib/media/lore_099_cadena.webp",
+      "dependencies": []
+    },
+    "lib/media/lore_100_dragonslayer.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 41586,
+      "exportedPath": "lib/media/lore_100_dragonslayer.webp",
+      "dependencies": []
+    },
+    "lib/media/lore_viola_of_moonlight.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 21644,
+      "exportedPath": "lib/media/lore_viola_of_moonlight.webp",
+      "dependencies": []
+    },
+    "lib/media/lcdr-prep-s43_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 55860,
+      "exportedPath": "lib/media/lcdr-prep-s43_image_1.webp",
+      "dependencies": []
+    },
+    "lib/media/place_090_dale_overview.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 90434,
+      "exportedPath": "lib/media/place_090_dale_overview.webp",
+      "dependencies": []
+    },
+    "lib/media/s06_combate_en_colinas_de_gundabad.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 75956,
+      "exportedPath": "lib/media/s06_combate_en_colinas_de_gundabad.webp",
+      "dependencies": []
+    },
+    "lib/media/s05_todos_los_pueblos.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 84266,
+      "exportedPath": "lib/media/s05_todos_los_pueblos.webp",
+      "dependencies": []
+    },
+    "lib/media/s05_pueblo_de_beorn.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 86410,
+      "exportedPath": "lib/media/s05_pueblo_de_beorn.webp",
+      "dependencies": []
+    },
+    "lib/media/s05_puerta_de_los_elfos.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 88266,
+      "exportedPath": "lib/media/s05_puerta_de_los_elfos.webp",
+      "dependencies": []
+    },
+    "lib/media/s05_elfos_del_bosque.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 87140,
+      "exportedPath": "lib/media/s05_elfos_del_bosque.webp",
+      "dependencies": []
+    },
+    "lib/media/s05_viglundins.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 88978,
+      "exportedPath": "lib/media/s05_viglundins.webp",
+      "dependencies": []
+    },
+    "lib/media/s05_gundabad.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 88288,
+      "exportedPath": "lib/media/s05_gundabad.webp",
+      "dependencies": []
+    },
+    "lib/media/s08_travel_map.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 731878,
+      "exportedPath": "lib/media/s08_travel_map.webp",
+      "dependencies": []
+    },
+    "lib/media/s08_ostag_cs.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 53398,
+      "exportedPath": "lib/media/s08_ostag_cs.webp",
+      "dependencies": []
+    },
+    "lib/media/s08_ostag_cs_ii.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 61610,
+      "exportedPath": "lib/media/s08_ostag_cs_ii.webp",
+      "dependencies": []
+    },
+    "lib/media/s04_el_camino_del_bosque_viejo.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 234632,
+      "exportedPath": "lib/media/s04_el_camino_del_bosque_viejo.webp",
+      "dependencies": []
+    },
+    "lib/media/s04_wargo.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 37450,
+      "exportedPath": "lib/media/s04_wargo.webp",
+      "dependencies": []
+    },
+    "lib/media/s33_viaje_al_norte.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 51456,
+      "exportedPath": "lib/media/s33_viaje_al_norte.webp",
+      "dependencies": []
+    },
+    "lib/media/s33_estribaciones_meridionales.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 29610,
+      "exportedPath": "lib/media/s33_estribaciones_meridionales.webp",
+      "dependencies": []
+    },
+    "lib/media/s45-el-mausoleo-de-girion-20240812172315142.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 82208,
+      "exportedPath": "lib/media/s45-el-mausoleo-de-girion-20240812172315142.webp",
+      "dependencies": []
+    },
+    "lib/media/s19_gandalf.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 83376,
+      "exportedPath": "lib/media/s19_gandalf.webp",
+      "dependencies": []
+    },
+    "lib/media/s19_ruta_a_casa_beorn.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 200776,
+      "exportedPath": "lib/media/s19_ruta_a_casa_beorn.webp",
+      "dependencies": []
+    },
+    "lib/media/s01_size500_oots_tednasmith_bilboandeagles_detail1_500.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 19022,
+      "exportedPath": "lib/media/s01_size500_oots_tednasmith_bilboandeagles_detail1_500.webp",
+      "dependencies": []
+    },
+    "lib/media/s01_mapa_rhovanion.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 594172,
+      "exportedPath": "lib/media/s01_mapa_rhovanion.webp",
+      "dependencies": []
+    },
+    "lib/media/s01_4519132-dark-forest.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 41592,
+      "exportedPath": "lib/media/s01_4519132-dark-forest.webp",
+      "dependencies": []
+    },
+    "lib/media/s01_the-hobbit-the-desolation-of-smaug-fx-046.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 7252,
+      "exportedPath": "lib/media/s01_the-hobbit-the-desolation-of-smaug-fx-046.webp",
+      "dependencies": []
+    },
+    "lib/media/s14_viaje_a_rhosgobel.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 138100,
+      "exportedPath": "lib/media/s14_viaje_a_rhosgobel.webp",
+      "dependencies": []
+    },
+    "lib/media/s14_aranyas_en_el_bosque.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 35254,
+      "exportedPath": "lib/media/s14_aranyas_en_el_bosque.webp",
+      "dependencies": []
+    },
+    "lib/media/s14_rhosgobel.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 63488,
+      "exportedPath": "lib/media/s14_rhosgobel.webp",
+      "dependencies": []
+    },
+    "lib/media/s10_anduin_upper_valleis.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 201386,
+      "exportedPath": "lib/media/s10_anduin_upper_valleis.webp",
+      "dependencies": []
+    },
+    "lib/media/lcdr-s41_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 67368,
+      "exportedPath": "lib/media/lcdr-s41_image_1.webp",
+      "dependencies": []
+    },
+    "lib/media/s07_espectro_enano.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 35872,
+      "exportedPath": "lib/media/s07_espectro_enano.webp",
+      "dependencies": []
+    },
+    "lib/media/s11_enfrentamiento_en_colinas_gundabad.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 85544,
+      "exportedPath": "lib/media/s11_enfrentamiento_en_colinas_gundabad.webp",
+      "dependencies": []
+    },
+    "lib/media/s13_de_camino_a_beorn.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 181938,
+      "exportedPath": "lib/media/s13_de_camino_a_beorn.webp",
+      "dependencies": []
+    },
+    "lib/media/s13_sur_del_anduil.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 265492,
+      "exportedPath": "lib/media/s13_sur_del_anduil.webp",
+      "dependencies": []
+    },
+    "lib/media/lcdr-s39-la-búsqueda-de-la-mina-fireheart_image_2.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 107232,
+      "exportedPath": "lib/media/lcdr-s39-la-búsqueda-de-la-mina-fireheart_image_2.webp",
+      "dependencies": []
+    },
+    "lib/media/lcdr-s43-20240223111834395.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 39484,
+      "exportedPath": "lib/media/lcdr-s43-20240223111834395.webp",
+      "dependencies": []
+    },
+    "lib/media/s02_troll.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 14492,
+      "exportedPath": "lib/media/s02_troll.webp",
+      "dependencies": []
+    },
+    "lib/media/s02_oin.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 26404,
+      "exportedPath": "lib/media/s02_oin.webp",
+      "dependencies": []
+    },
+    "lib/media/s26_enfrentamiento_con_los_orcos.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 100742,
+      "exportedPath": "lib/media/s26_enfrentamiento_con_los_orcos.webp",
+      "dependencies": []
+    },
+    "lib/media/s26_flechazo_mortal.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 31118,
+      "exportedPath": "lib/media/s26_flechazo_mortal.webp",
+      "dependencies": []
+    },
+    "lib/media/s28_la_taberna.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 42166,
+      "exportedPath": "lib/media/s28_la_taberna.webp",
+      "dependencies": []
+    },
+    "lib/media/s28_weather.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 9132,
+      "exportedPath": "lib/media/s28_weather.webp",
+      "dependencies": []
+    },
+    "lib/media/s28_beinhard.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 45582,
+      "exportedPath": "lib/media/s28_beinhard.webp",
+      "dependencies": []
+    },
+    "lib/media/s12_vista_general.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 102902,
+      "exportedPath": "lib/media/s12_vista_general.webp",
+      "dependencies": []
+    },
+    "lib/media/s12_mapa.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 87614,
+      "exportedPath": "lib/media/s12_mapa.webp",
+      "dependencies": []
+    },
+    "lib/media/s35_orcos_en_la_fundicion.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 48810,
+      "exportedPath": "lib/media/s35_orcos_en_la_fundicion.webp",
+      "dependencies": []
+    },
+    "lib/media/s35_enfrentamiento_con_gibbet_king.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 75080,
+      "exportedPath": "lib/media/s35_enfrentamiento_con_gibbet_king.webp",
+      "dependencies": []
+    },
+    "lib/media/s09_ficha_01.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 111988,
+      "exportedPath": "lib/media/s09_ficha_01.webp",
+      "dependencies": []
+    },
+    "lib/media/s09_combate_01.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 95558,
+      "exportedPath": "lib/media/s09_combate_01.webp",
+      "dependencies": []
+    },
+    "lib/media/s16_la_torre_del_elfo_mapa.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 87936,
+      "exportedPath": "lib/media/s16_la_torre_del_elfo_mapa.webp",
+      "dependencies": []
+    },
+    "lib/media/s16_la_torre_del_elfo_vista.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 27450,
+      "exportedPath": "lib/media/s16_la_torre_del_elfo_vista.webp",
+      "dependencies": []
+    },
+    "lib/media/s17_la_torre_del_elfo_plano.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 7822,
+      "exportedPath": "lib/media/s17_la_torre_del_elfo_plano.webp",
+      "dependencies": []
+    },
+    "lib/media/s30_combate_en_la_tumba.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 137532,
+      "exportedPath": "lib/media/s30_combate_en_la_tumba.webp",
+      "dependencies": []
+    },
+    "lib/media/lcdr-s18-los-espíritus-del-bosque_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 554404,
+      "exportedPath": "lib/media/lcdr-s18-los-espíritus-del-bosque_image_1.webp",
+      "dependencies": []
+    },
+    "lib/media/s34_torre_orca.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 78686,
+      "exportedPath": "lib/media/s34_torre_orca.webp",
+      "dependencies": []
+    },
+    "lib/media/s34_combate_en_la_nieve.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 141484,
+      "exportedPath": "lib/media/s34_combate_en_la_nieve.webp",
+      "dependencies": []
+    },
+    "lib/media/s15_enfrentamiento_con_dagma.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 85742,
+      "exportedPath": "lib/media/s15_enfrentamiento_con_dagma.webp",
+      "dependencies": []
+    },
+    "lib/media/s22_castillo_mirkwood.jpg": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1917739,
+      "exportedPath": "lib/media/s22_castillo_mirkwood.jpg",
+      "dependencies": []
+    },
+    "lib/media/s22_campamento_orco.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 28280,
+      "exportedPath": "lib/media/s22_campamento_orco.webp",
+      "dependencies": []
+    },
+    "lib/media/s22_torre_enana.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 30928,
+      "exportedPath": "lib/media/s22_torre_enana.webp",
+      "dependencies": []
+    },
+    "lib/media/lcdr-s42_image_1.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 120354,
+      "exportedPath": "lib/media/lcdr-s42_image_1.webp",
+      "dependencies": []
+    },
+    "lib/media/s37_combate_orcos.webp": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 132164,
+      "exportedPath": "lib/media/s37_combate_orcos.webp",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 130208,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 1437497,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 13035,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 495,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 6925,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1723482597368,
+      "sourceSize": 5129,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
